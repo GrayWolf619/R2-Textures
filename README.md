@@ -18,6 +18,46 @@
 	<li><a href="#обратная-связь-и-поддержка">Обратная связь и поддержка</a></li>
 </ul>
 
+
+<ul>
+    <li><a href="https://github.com/Aksel911/R2-Textures/--==EFFECTS%20FULL==--"><strong>--==EFFECTS FULL==--</strong></a>: Коллекция всех эффектов из игры.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/--==MONSTER%20ITEM%20ARMOR%20MODELS%20FULL==--"><strong>--==MONSTER ITEM ARMOR MODELS FULL==--</strong></a>: Полный набор моделей брони и предметов из игры, а так-же все модели монстров.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[48x48]%20MONSTER%20PICTURES"><strong>[48x48] MONSTER PICTURES</strong></a>: Картинки монстров размером 48x48.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[48x48]%20PNG%20ITEMS%20AND%20MONSTERS%20PICS"><strong>[48x48] PNG ITEMS AND MONSTERS PICS</strong></a>: PNG изображения предметов и монстров размером 48x48.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[48x48]%20WEBP%20ITEMS%20AND%20MONSTERS%20PICS"><strong>[48x48] WEBP ITEMS AND MONSTERS PICS</strong></a>: WEBP изображения предметов и монстров размером 48x48.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[BY%20MYSELF]%20ITEMS"><strong>[BY MYSELF] ITEMS</strong></a>: Предметы, созданные автором репозитория.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[BY%20MYSELF]%20MONSTERS%20EFFECTS"><strong>[BY MYSELF] MONSTERS EFFECTS</strong></a>: Эффекты для монстров, созданные автором.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[BY%20MYSELF]%20NPC"><strong>[BY MYSELF] NPC</strong></a>: NPC, созданные автором.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[BY%20MYSELF]%20Доспехи%20(Белый%20&%20Черный%20Демоджар)"><strong>[BY MYSELF] Доспехи (Белый & Черный Демоджар)</strong></a>: Доспехи (Белый и Черный Демоджар).</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[Blender249]%20[ReignOfRevolutionOnline]%20[rab]%20+%20[rmb]%20[2014-11-26]"><strong>[Blender249] [ReignOfRevolutionOnline] [rab] + [rmb] [2014-11-26]</strong></a>: Чтение моделей и анимаций с помощью Blender249.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[FIX]%20FIXES"><strong>[FIX] FIXES</strong></a>: Исправления и патчи визуальных эффектов для игры.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[GIT]"><strong>[GIT]</strong></a>: Как сохранить этот репозиторий.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[GUI]%20RUSSIAN%20TRANSLATE"><strong>[GUI] RUSSIAN TRANSLATE</strong></a>: Русский перевод для графического интерфейса пользователя.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[GUI]%20UPSCALED%20UI%201602"><strong>[GUI] UPSCALED UI 1602</strong></a>: Улучшенный графический интерфейс пользователя для клиента 1602.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[GUI]%20[ETC]%20R2%20ACRA%20COLLECTION"><strong>[GUI] [ETC] R2 ACRA COLLECTION</strong></a>: Коллекция GUI и ETC от сервера R2 Acra.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[GUI]%20[ETC]%20R2%20CLASSIC%20COLLECTION"><strong>[GUI] [ETC] R2 CLASSIC COLLECTION</strong></a>: Коллекция GUI и ETC от сервера R2 Classic.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[GUI]%20[ETC]%20R2%20DISPEL%20COLLECTION"><strong>[GUI] [ETC] R2 DISPEL COLLECTION</strong></a>: Коллекция GUI и ETC от сервера Dispel.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[GUI]%20[ETC]%20R2%20KOREA%20OFF%20COLLECTION"><strong>[GUI] [ETC] R2 KOREA OFF COLLECTION</strong></a>: Коллекция GUI и ETC от Оффициального Корейского Сервера.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[GUI]%20[ETC]%20R2%20OFF%20(ACRA)%20COLLECTION"><strong>[GUI] [ETC] R2 OFF (ACRA) COLLECTION</strong></a>: Коллекция GUI и ETC от сервера R2 Acra.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[GUI]%20[ETC]%20R2%20P&N%20COLLECTION"><strong>[GUI] [ETC] R2 P&N COLLECTION</strong></a>: Коллекция GUI и ETC от сервера R2 P&N.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[GUI]%20[ETC]%20R2%20P&N%20PTS%20COLLECTION"><strong>[GUI] [ETC] R2 P&N PTS COLLECTION</strong></a>: Коллекция GUI и ETC от сервера R2 P&N PTS.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[GUI]%20[ETC]%20R2%20REVOLGC%20COLLECTION"><strong>[GUI] [ETC] R2 REVOLGC COLLECTION</strong></a>: Коллекция GUI и ETC от сервера R2 RevolGC.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[GUI]%20[ETC]%20R2%20RUOFF%20COLLECTION"><strong>[GUI] [ETC] R2 RUOFF COLLECTION</strong></a>: Коллекция GUI и ETC от закрытого сервера R2RuOFF.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[LOGOTYPES]%20PEPE%20FROGS%20DDS"><strong>[LOGOTYPES] PEPE FROGS DDS</strong></a>: Коллекция логотипов лягушек ПеПе в формате DDS.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[MAPS]%20MAPS"><strong>[MAPS] MAPS</strong></a>: Разбор карт игры.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[MONSTERS]%20DEMOJAR%20ONLY"><strong>[MONSTERS] DEMOJAR ONLY</strong></a>: Специальная коллекция, посвященная только монстрам Демоджар.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[MONSTERS]%20GIF%20PICTURES"><strong>[MONSTERS] GIF PICTURES</strong></a>: Анимированные GIF изображения монстров.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[MONSTERS]%20SOME%20MONSTERS%20(NOT%20A%20FULL%20PACK!)"><strong>[MONSTERS] SOME MONSTERS (NOT A FULL PACK!)</strong></a>: Выборка монстров, не полный набор.</li>
+	<li><a href="https://github.com/Aksel911/R2-Textures/[MORPHS]%20MODEL%20+%20TEXTURE%20+%20TXT"><strong>[MORPHS] MODEL + TEXTURE + TXT</strong></a>: Комбинированные модели, текстуры и текстовые файлы для морфов.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[MORPHS]%20PICTURES"><strong>[MORPHS] PICTURES</strong></a>: Изображения морфов.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[NEW%20ITEMS]/%205%20New%20Weapons"><strong>[NEW ITEMS]/ 5 New Weapons</strong></a>: Пять новых видов оружия.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[R2m]%20UI%20FULL"><strong>[R2m] UI FULL</strong></a>: Полный набор пользовательского интерфейса R2m.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[RBMEXP]%20MODEL%20CREATOR"><strong>[RBMEXP] MODEL CREATOR</strong></a>: Инструмент для создания новых моделей.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[RWT]%20RWeatherTimeTables"><strong>[RWT] RWeatherTimeTables</strong></a>: Таблицы времени и погоды для R2.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/[VISUAL]%20NEW%20YEAR%20MODE%20(WINTER)"><strong>[VISUAL] NEW YEAR MODE (WINTER)</strong></a>: Визуальный режим "Новый Год" (зима).</li>
+</ul>
+
+
 <h2>Начало работы</h2>
 
 <p>Для начала использования текстур R2 в ваших проектах у вас есть несколько вариантов:</p>
