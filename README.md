@@ -22,7 +22,8 @@
 <ul>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DEFFECTS%20FULL%3D%3D--"><strong>--==EFFECTS FULL==--</strong></a>: Коллекция всех эффектов из игры.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--"><strong>--==MONSTER ITEM ARMOR MODELS FULL==--</strong></a>: Полный набор моделей брони и предметов из игры, а так-же все модели монстров.</li>
-    <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5B48x48%5D%20MONSTER%20PICTURES"><strong>[48x48] MONSTER PICTURES</strong></a>: Картинки монстров размером 48x48.</li>
+    <li><a href="пока нет ссылки"><strong>[48x48] IMAGE TOOL</strong></a>: Найти и обновить 48x48 картинку предмета или скилла.</li>
+	<li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5B48x48%5D%20MONSTER%20PICTURES"><strong>[48x48] MONSTER PICTURES</strong></a>: Картинки монстров размером 48x48.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5B48x48%5D%20PNG%20ITEMS%20AND%20MONSTERS%20PICS"><strong>[48x48] PNG ITEMS AND MONSTERS PICS</strong></a>: PNG изображения предметов и монстров размером 48x48.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5B48x48%5D%20WEBP%20ITEMS%20AND%20MONSTERS%20PICS"><strong>[48x48] WEBP ITEMS AND MONSTERS PICS</strong></a>: WEBP изображения предметов и монстров размером 48x48.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BBY%20MYSELF%5D%20ITEMS"><strong>[BY MYSELF] ITEMS</strong></a>: Предметы, созданные автором репозитория.</li>
@@ -53,6 +54,7 @@
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BNEW%20ITEMS%5D/5%20New%20Weapons"><strong>[NEW ITEMS]/ 5 New Weapons</strong></a>: Пять новых видов оружия.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BR2m%5D%20UI%20FULL"><strong>[R2m] UI FULL</strong></a>: Полный набор пользовательского интерфейса R2m.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BRBMEXP%5D%20MODEL%20CREATOR"><strong>[RBMEXP] MODEL CREATOR</strong></a>: Инструмент для создания новых моделей.</li>
+	<li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BRMBEXP%202%5D%20MODEL%20CREATOR%20v2"><strong>[RBMEXP 2] MODEL CREATOR v2</strong></a>: Инструмент для создания новых моделей (Вторая версия).</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BRWT%5D%20RWeatherTimeTables"><strong>[RWT] RWeatherTimeTables</strong></a>: Таблицы времени и погоды для R2.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BVISUAL%5D%20NEW%20YEAR%20MODE%20(WINTER)"><strong>[VISUAL] NEW YEAR MODE (WINTER)</strong></a>: Визуальный режим "Новый Год" (зима).</li>
 </ul>
