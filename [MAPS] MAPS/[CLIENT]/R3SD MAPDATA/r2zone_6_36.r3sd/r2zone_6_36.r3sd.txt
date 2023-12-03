@@ -40337,7 +40337,7 @@ int Count2: 5
 ⭐️
 
 Effect #1:
-                                
+
 Name: 0356.reb
 hz_float: 2.2062675952911377
 short_hz1: -14227
@@ -40392,7 +40392,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #2:
-                                
+
 Name: 0356.reb
 hz_float: 2.2062675952911377
 short_hz1: -14227
@@ -40447,7 +40447,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #3:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: -2.323446750640869
 short_hz1: 0
@@ -40502,7 +40502,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #4:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: -0.9603106379508972
 short_hz1: 0
@@ -40557,7 +40557,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #5:
-                                
+
 Name: De_Waypoint_02-alpha.r3m
 hz_float: 1.0
 short_hz1: 0

@@ -46363,7 +46363,7 @@ int Count2: 12
 ⭐️
 
 Effect #1:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.8468488454818726
 short_hz1: 25995
@@ -46418,7 +46418,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #2:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.5453605651855469
 short_hz1: -12704
@@ -46473,7 +46473,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #3:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.576898455619812
 short_hz1: -10289
@@ -46528,7 +46528,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #4:
-                                
+
 Name: effect_house_smoke02.reb
 hz_float: 1.0
 short_hz1: 0
@@ -46583,7 +46583,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #5:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.0773568153381348
 short_hz1: -3222
@@ -46638,7 +46638,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #6:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.037438154220581
 short_hz1: 25955
@@ -46693,7 +46693,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #7:
-                                
+
 Name: 0011.reb
 hz_float: 1.0
 short_hz1: 0
@@ -46748,7 +46748,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #8:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.921461582183838
 short_hz1: -3468
@@ -46803,7 +46803,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #9:
-                                
+
 Name: light.r3m
 hz_float: 0.30531078577041626
 short_hz1: 0
@@ -46858,7 +46858,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #10:
-                                
+
 Name: r_danger_alpha_02.r3m
 hz_float: 0.0027350429445505142
 short_hz1: 5703
@@ -46913,7 +46913,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #11:
-                                
+
 Name: r_danger_alpha_02.r3m
 hz_float: 0.00801600981503725
 short_hz1: 745
@@ -46968,7 +46968,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #12:
-                                
+
 Name: r_danger_alpha_02.r3m
 hz_float: 0.00801600981503725
 short_hz1: 745

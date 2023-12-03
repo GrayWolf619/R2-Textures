@@ -44063,7 +44063,7 @@ int Count2: 1
 ⭐️
 
 Effect #1:
-                                
+
 Name: 0061.reb
 hz_float: 1.0
 short_hz1: 0

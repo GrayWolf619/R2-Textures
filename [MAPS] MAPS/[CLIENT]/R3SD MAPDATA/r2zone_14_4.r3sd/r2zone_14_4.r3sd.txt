@@ -50365,7 +50365,7 @@ int Count2: 9
 ⭐️
 
 Effect #1:
-                                
+
 Name: light.r3m
 hz_float: 1.0
 short_hz1: 0
@@ -50420,7 +50420,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #2:
-                                
+
 Name: r1_ob_battleston_t1_test.r3m
 hz_float: 0.9965210556983948
 short_hz1: 18587
@@ -50475,7 +50475,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #3:
-                                
+
 Name: 0037.reb
 hz_float: 4.202118396759033
 short_hz1: 30657
@@ -50530,7 +50530,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #4:
-                                
+
 Name: 0092.reb
 hz_float: 3.991560220718384
 short_hz1: 30137
@@ -50585,7 +50585,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #5:
-                                
+
 Name: 0092.reb
 hz_float: 2.7278993129730225
 short_hz1: -27161
@@ -50640,7 +50640,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #6:
-                                
+
 Name: 0092.reb
 hz_float: 4.161134719848633
 short_hz1: 10244
@@ -50695,7 +50695,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #7:
-                                
+
 Name: 0013.reb
 hz_float: 1.0
 short_hz1: 0
@@ -50750,7 +50750,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #8:
-                                
+
 Name: 0012.reb
 hz_float: 0.34213700890541077
 short_hz1: 11413
@@ -50805,7 +50805,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #9:
-                                
+
 Name: r3_sp4_stonehammer_aphawall.r3m
 hz_float: -0.028838258236646652
 short_hz1: 0

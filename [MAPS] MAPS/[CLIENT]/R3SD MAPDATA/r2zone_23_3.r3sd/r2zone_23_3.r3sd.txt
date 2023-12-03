@@ -42637,7 +42637,7 @@ int Count2: 2
 ⭐️
 
 Effect #1:
-                                
+
 Name: 0010.reb
 hz_float: 1.372785210609436
 short_hz1: -18579
@@ -42692,7 +42692,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #2:
-                                
+
 Name: 0010.reb
 hz_float: 1.243373990058899
 short_hz1: 9953

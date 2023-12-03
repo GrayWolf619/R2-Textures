@@ -40337,7 +40337,7 @@ int Count2: 15
 ⭐️
 
 Effect #1:
-                                
+
 Name: R3_CS_alphawall_01.r3m
 hz_float: -0.6863887310028076
 short_hz1: 0
@@ -40392,7 +40392,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #2:
-                                
+
 Name: light.r3m
 hz_float: 2.5201570987701416
 short_hz1: 0
@@ -40447,7 +40447,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #3:
-                                
+
 Name: light.r3m
 hz_float: 2.5201570987701416
 short_hz1: 0
@@ -40502,7 +40502,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #4:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.1716591119766235
 short_hz1: -1811
@@ -40557,7 +40557,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #5:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.0395677089691162
 short_hz1: 4238
@@ -40612,7 +40612,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #6:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.6084363460540771
 short_hz1: -7874
@@ -40667,7 +40667,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #7:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.1261622905731201
 short_hz1: 9750
@@ -40722,7 +40722,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #8:
-                                
+
 Name: 0095.reb
 hz_float: 1.3399579524993896
 short_hz1: -31810
@@ -40777,7 +40777,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #9:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: 0.9621815085411072
 short_hz1: 0
@@ -40832,7 +40832,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #10:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: 3.4477012157440186
 short_hz1: 0
@@ -40887,7 +40887,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #11:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: -0.4577694833278656
 short_hz1: 0
@@ -40942,7 +40942,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #12:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: 6.406057357788086
 short_hz1: 0
@@ -40997,7 +40997,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #13:
-                                
+
 Name: r_danger_alpha_02.r3m
 hz_float: 3.401811361312866
 short_hz1: 0
@@ -41052,7 +41052,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #14:
-                                
+
 Name: r3_cs_statue_alphawall.r3m
 hz_float: -0.6863889694213867
 short_hz1: 0
@@ -41107,7 +41107,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #15:
-                                
+
 Name: light.r3m
 hz_float: 2.5201570987701416
 short_hz1: 0

@@ -43235,7 +43235,7 @@ int Count2: 3
 ⭐️
 
 Effect #1:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: -1.6887378692626953
 short_hz1: -6001
@@ -43290,7 +43290,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #2:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: -2.9850645065307617
 short_hz1: 7353
@@ -43345,7 +43345,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #3:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: -5.73696756362915
 short_hz1: -991

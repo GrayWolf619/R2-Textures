@@ -40705,7 +40705,7 @@ int Count2: 4
 ⭐️
 
 Effect #1:
-                                
+
 Name: effect_fire01.reb
 hz_float: 5.908200263977051
 short_hz1: -21882
@@ -40760,7 +40760,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #2:
-                                
+
 Name: light.r3m
 hz_float: 2.366931438446045
 short_hz1: 0
@@ -40815,7 +40815,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #3:
-                                
+
 Name: effect_fire01.reb
 hz_float: 7.316044330596924
 short_hz1: 101
@@ -40870,7 +40870,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #4:
-                                
+
 Name: light.r3m
 hz_float: 2.366931438446045
 short_hz1: 0

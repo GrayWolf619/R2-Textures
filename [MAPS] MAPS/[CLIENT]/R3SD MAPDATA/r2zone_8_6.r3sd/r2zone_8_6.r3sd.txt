@@ -42591,7 +42591,7 @@ int Count2: 6
 ⭐️
 
 Effect #1:
-                                
+
 Name: 0061.reb
 hz_float: 1.8475878238677979
 short_hz1: 32194
@@ -42646,7 +42646,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #2:
-                                
+
 Name: 0061.reb
 hz_float: 2.9717276096343994
 short_hz1: 12489
@@ -42701,7 +42701,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #3:
-                                
+
 Name: 0061.reb
 hz_float: 2.164743185043335
 short_hz1: -29913
@@ -42756,7 +42756,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #4:
-                                
+
 Name: r_danger_alpha_02.r3m
 hz_float: 0.936684250831604
 short_hz1: 0
@@ -42811,7 +42811,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #5:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: 0.27130022644996643
 short_hz1: 2
@@ -42866,7 +42866,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #6:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: 0.27130022644996643
 short_hz1: 2

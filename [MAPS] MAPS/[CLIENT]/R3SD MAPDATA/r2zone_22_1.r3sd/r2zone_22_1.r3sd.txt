@@ -45719,7 +45719,7 @@ int Count2: 1
 ⭐️
 
 Effect #1:
-                                
+
 Name: light.r3m
 hz_float: 1.0
 short_hz1: 0

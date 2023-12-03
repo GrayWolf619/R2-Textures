@@ -41579,7 +41579,7 @@ int Count2: 3
 ⭐️
 
 Effect #1:
-                                
+
 Name: 0107.reb
 hz_float: 1.0590871572494507
 short_hz1: -28629
@@ -41634,7 +41634,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #2:
-                                
+
 Name: light.r3m
 hz_float: 1.0
 short_hz1: 0
@@ -41689,7 +41689,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #3:
-                                
+
 Name: alpha_potal.r3m
 hz_float: 13.044127464294434
 short_hz1: 0

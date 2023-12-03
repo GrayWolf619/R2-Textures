@@ -40015,7 +40015,7 @@ int Count2: 12
 ⭐️
 
 Effect #1:
-                                
+
 Name: light.r3m
 hz_float: 0.5476009845733643
 short_hz1: 0
@@ -40070,7 +40070,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #2:
-                                
+
 Name: 0010.reb
 hz_float: 2.7457499504089355
 short_hz1: -17826
@@ -40125,7 +40125,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #3:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.6050236225128174
 short_hz1: -18251
@@ -40180,7 +40180,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #4:
-                                
+
 Name: castle_door.r3m
 hz_float: 0.283356636762619
 short_hz1: 0
@@ -40235,7 +40235,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #5:
-                                
+
 Name: light.r3m
 hz_float: 0.6225221157073975
 short_hz1: 0
@@ -40290,7 +40290,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #6:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.3422187566757202
 short_hz1: -12845
@@ -40345,7 +40345,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #7:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.3422187566757202
 short_hz1: -12845
@@ -40400,7 +40400,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #8:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.3422187566757202
 short_hz1: -12845
@@ -40455,7 +40455,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #9:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.3422187566757202
 short_hz1: -12845
@@ -40510,7 +40510,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #10:
-                                
+
 Name: light.r3m
 hz_float: 1.0
 short_hz1: 0
@@ -40565,7 +40565,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #11:
-                                
+
 Name: light.r3m
 hz_float: 1.0
 short_hz1: 0
@@ -40620,7 +40620,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #12:
-                                
+
 Name: light.r3m
 hz_float: 1.0
 short_hz1: 0

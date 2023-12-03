@@ -38865,7 +38865,7 @@ int Count2: 1
 ⭐️
 
 Effect #1:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: 17.63965606689453
 short_hz1: 0

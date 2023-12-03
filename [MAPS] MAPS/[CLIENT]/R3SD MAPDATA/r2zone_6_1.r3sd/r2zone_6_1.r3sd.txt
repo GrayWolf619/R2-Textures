@@ -40935,7 +40935,7 @@ int Count2: 1
 ⭐️
 
 Effect #1:
-                                
+
 Name: 0094.reb
 hz_float: 0.9900480508804321
 short_hz1: 29642

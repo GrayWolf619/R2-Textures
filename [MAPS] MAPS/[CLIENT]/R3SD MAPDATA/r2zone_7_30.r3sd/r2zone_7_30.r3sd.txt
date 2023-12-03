@@ -42407,7 +42407,7 @@ int Count2: 13
 ⭐️
 
 Effect #1:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: 2.3646445274353027
 short_hz1: 0
@@ -42462,7 +42462,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #2:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: 5.012851715087891
 short_hz1: 0
@@ -42517,7 +42517,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #3:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: 20.00619888305664
 short_hz1: 0
@@ -42572,7 +42572,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #4:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: 4.095444202423096
 short_hz1: 0
@@ -42627,7 +42627,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #5:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: -5.598228931427002
 short_hz1: 0
@@ -42682,7 +42682,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #6:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: 3.1214699745178223
 short_hz1: 0
@@ -42737,7 +42737,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #7:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: 7.346734046936035
 short_hz1: 0
@@ -42792,7 +42792,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #8:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: 12.969438552856445
 short_hz1: 0
@@ -42847,7 +42847,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #9:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: 1.0
 short_hz1: 0
@@ -42902,7 +42902,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #10:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: 4.765516757965088
 short_hz1: 0
@@ -42957,7 +42957,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #11:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: 11.22896957397461
 short_hz1: 0
@@ -43012,7 +43012,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #12:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: 1.0
 short_hz1: 0
@@ -43067,7 +43067,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #13:
-                                
+
 Name: R_Danger_Alpha_box.r3m
 hz_float: 5.687450885772705
 short_hz1: 0

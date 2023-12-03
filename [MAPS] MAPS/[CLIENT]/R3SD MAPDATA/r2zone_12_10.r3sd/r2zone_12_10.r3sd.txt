@@ -40797,7 +40797,7 @@ int Count2: 10
 ⭐️
 
 Effect #1:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.0
 short_hz1: 0
@@ -40852,7 +40852,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #2:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.1950923204421997
 short_hz1: -1847
@@ -40907,7 +40907,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #3:
-                                
+
 Name: castle_door.r3m
 hz_float: 0.9982516765594482
 short_hz1: 0
@@ -40962,7 +40962,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #4:
-                                
+
 Name: r_danger_alpha_02.r3m
 hz_float: 4.477928161621094
 short_hz1: 0
@@ -41017,7 +41017,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #5:
-                                
+
 Name: r_danger_alpha_02.r3m
 hz_float: 4.222173690795898
 short_hz1: 0
@@ -41072,7 +41072,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #6:
-                                
+
 Name: r1_schwartz_castle43.r3m
 hz_float: -0.9985096454620361
 short_hz1: 0
@@ -41127,7 +41127,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #7:
-                                
+
 Name: r1_ob_battletower_t1_tower.r3m
 hz_float: 1.0
 short_hz1: 0
@@ -41182,7 +41182,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #8:
-                                
+
 Name: furie_alpha_01.r3m
 hz_float: 0.9988938570022583
 short_hz1: 0
@@ -41237,7 +41237,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #9:
-                                
+
 Name: R_Danger_Alpha_05.r3m
 hz_float: -0.639733612537384
 short_hz1: 0
@@ -41292,7 +41292,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #10:
-                                
+
 Name: R_Danger_Alpha_05.r3m
 hz_float: 0.6805416345596313
 short_hz1: 0

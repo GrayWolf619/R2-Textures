@@ -44155,7 +44155,7 @@ int Count2: 17
 ⭐️
 
 Effect #1:
-                                
+
 Name: r1_ob_battleston_t1_test.r3m
 hz_float: -0.05617526173591614
 short_hz1: 0
@@ -44210,7 +44210,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #2:
-                                
+
 Name: r1_ob_mermanhome_alpha.r3m
 hz_float: 0.9087567925453186
 short_hz1: 0
@@ -44265,7 +44265,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #3:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: -0.3683975338935852
 short_hz1: 0
@@ -44320,7 +44320,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #4:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: 0.306670606136322
 short_hz1: 0
@@ -44375,7 +44375,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #5:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: -0.4381926655769348
 short_hz1: 0
@@ -44430,7 +44430,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #6:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: -0.18076035380363464
 short_hz1: 0
@@ -44485,7 +44485,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #7:
-                                
+
 Name: r_danger_alpha_02.r3m
 hz_float: 0.9638462662696838
 short_hz1: 0
@@ -44540,7 +44540,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #8:
-                                
+
 Name: r_danger_alpha_02.r3m
 hz_float: 0.7194101810455322
 short_hz1: 0
@@ -44595,7 +44595,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #9:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: -1.2149865627288818
 short_hz1: 0
@@ -44650,7 +44650,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #10:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: -0.1647207885980606
 short_hz1: 21981
@@ -44705,7 +44705,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #11:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: 0.6094195246696472
 short_hz1: 0
@@ -44760,7 +44760,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #12:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: 0.9347826242446899
 short_hz1: 0
@@ -44815,7 +44815,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #13:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: 0.6732428669929504
 short_hz1: 0
@@ -44870,7 +44870,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #14:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: 0.7353358268737793
 short_hz1: 0
@@ -44925,7 +44925,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #15:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: 0.7250887751579285
 short_hz1: 0
@@ -44980,7 +44980,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #16:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: 0.7156924605369568
 short_hz1: 0
@@ -45035,7 +45035,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #17:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: 0.6717513799667358
 short_hz1: 0

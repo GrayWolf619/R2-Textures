@@ -44201,7 +44201,7 @@ int Count2: 14
 ⭐️
 
 Effect #1:
-                                
+
 Name: light.r3m
 hz_float: 2.208038091659546
 short_hz1: 0
@@ -44256,7 +44256,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #2:
-                                
+
 Name: 0094.reb
 hz_float: 1.0
 short_hz1: 0
@@ -44311,7 +44311,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #3:
-                                
+
 Name: 0013.reb
 hz_float: 1.0
 short_hz1: 0
@@ -44366,7 +44366,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #4:
-                                
+
 Name: 0008.reb
 hz_float: 1.9291586875915527
 short_hz1: 23899
@@ -44421,7 +44421,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #5:
-                                
+
 Name: 0078.reb
 hz_float: 1.999888300895691
 short_hz1: -937
@@ -44476,7 +44476,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #6:
-                                
+
 Name: 0078.reb
 hz_float: 1.5459789037704468
 short_hz1: -7517
@@ -44531,7 +44531,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #7:
-                                
+
 Name: 0078.reb
 hz_float: 1.8113605976104736
 short_hz1: -9558
@@ -44586,7 +44586,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #8:
-                                
+
 Name: 0078.reb
 hz_float: 1.5637056827545166
 short_hz1: 14955
@@ -44641,7 +44641,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #9:
-                                
+
 Name: 0078.reb
 hz_float: 1.729222297668457
 short_hz1: 22312
@@ -44696,7 +44696,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #10:
-                                
+
 Name: 0008.reb
 hz_float: 1.2682414054870605
 short_hz1: 21948
@@ -44751,7 +44751,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #11:
-                                
+
 Name: 0012.reb
 hz_float: 1.0
 short_hz1: 0
@@ -44806,7 +44806,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #12:
-                                
+
 Name: 0013.reb
 hz_float: 1.0
 short_hz1: 0
@@ -44861,7 +44861,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #13:
-                                
+
 Name: 0012.reb
 hz_float: 1.0
 short_hz1: 0
@@ -44916,7 +44916,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #14:
-                                
+
 Name: 0108.reb
 hz_float: 3.0311620235443115
 short_hz1: -369

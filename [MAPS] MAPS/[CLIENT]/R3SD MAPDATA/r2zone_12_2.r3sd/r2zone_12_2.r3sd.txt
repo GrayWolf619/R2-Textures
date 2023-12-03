@@ -39187,7 +39187,7 @@ int Count2: 7
 ⭐️
 
 Effect #1:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.4259618520736694
 short_hz1: -31253
@@ -39242,7 +39242,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #2:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.514453411102295
 short_hz1: -9828
@@ -39297,7 +39297,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #3:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.293606162071228
 short_hz1: -27421
@@ -39352,7 +39352,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #4:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: 6.883272171020508
 short_hz1: 0
@@ -39407,7 +39407,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #5:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: -0.3494536578655243
 short_hz1: 0
@@ -39462,7 +39462,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #6:
-                                
+
 Name: r_danger_alpha_01.r3m
 hz_float: -3.4796810150146484
 short_hz1: 0
@@ -39517,7 +39517,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #7:
-                                
+
 Name: light.r3m
 hz_float: 2.5201570987701416
 short_hz1: 0

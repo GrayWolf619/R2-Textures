@@ -39141,7 +39141,7 @@ int Count2: 1
 ⭐️
 
 Effect #1:
-                                
+
 Name: alpha_potal.r3m
 hz_float: 14.198684692382812
 short_hz1: 0

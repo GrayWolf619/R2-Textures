@@ -41119,7 +41119,7 @@ int Count2: 963
 ⭐️
 
 Effect #1:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.4776718616485596
 short_hz1: -28115
@@ -41174,7 +41174,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #2:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.4242348670959473
 short_hz1: 9898
@@ -41229,7 +41229,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #3:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.9466058015823364
 short_hz1: 10849
@@ -41284,7 +41284,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #4:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.24320650100708
 short_hz1: -28494
@@ -41339,7 +41339,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #5:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.1146695613861084
 short_hz1: 22207
@@ -41394,7 +41394,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #6:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.9134585857391357
 short_hz1: 30235
@@ -41449,7 +41449,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #7:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.909963846206665
 short_hz1: 15577
@@ -41504,7 +41504,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #8:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.800325632095337
 short_hz1: 14473
@@ -41559,7 +41559,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #9:
-                                
+
 Name: effect_fire01.reb
 hz_float: 3.28102707862854
 short_hz1: -935
@@ -41614,7 +41614,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #10:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.7902610301971436
 short_hz1: -27741
@@ -41669,7 +41669,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #11:
-                                
+
 Name: 0005.reb
 hz_float: 3.3466475009918213
 short_hz1: 12153
@@ -41724,7 +41724,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #12:
-                                
+
 Name: 0005.reb
 hz_float: 3.970853090286255
 short_hz1: 8821
@@ -41779,7 +41779,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #13:
-                                
+
 Name: 0005.reb
 hz_float: 3.4279448986053467
 short_hz1: 25459
@@ -41834,7 +41834,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #14:
-                                
+
 Name: 0005.reb
 hz_float: 3.029949426651001
 short_hz1: -5455
@@ -41889,7 +41889,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #15:
-                                
+
 Name: 0005.reb
 hz_float: 3.4135804176330566
 short_hz1: 30746
@@ -41944,7 +41944,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #16:
-                                
+
 Name: 0005.reb
 hz_float: 5.056190490722656
 short_hz1: -13232
@@ -41999,7 +41999,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #17:
-                                
+
 Name: 0005.reb
 hz_float: 5.589146614074707
 short_hz1: -9654
@@ -42054,7 +42054,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #18:
-                                
+
 Name: 0005.reb
 hz_float: 4.161134719848633
 short_hz1: 10244
@@ -42109,7 +42109,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #19:
-                                
+
 Name: 0005.reb
 hz_float: 3.216693162918091
 short_hz1: -8627
@@ -42164,7 +42164,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #20:
-                                
+
 Name: 0005.reb
 hz_float: 3.216693162918091
 short_hz1: -8627
@@ -42219,7 +42219,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #21:
-                                
+
 Name: 0005.reb
 hz_float: 3.7583272457122803
 short_hz1: -30609
@@ -42274,7 +42274,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #22:
-                                
+
 Name: 0005.reb
 hz_float: 2.01393723487854
 short_hz1: -7079
@@ -42329,7 +42329,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #23:
-                                
+
 Name: 0005.reb
 hz_float: 2.567477226257324
 short_hz1: -28812
@@ -42384,7 +42384,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #24:
-                                
+
 Name: 0005.reb
 hz_float: 3.0166444778442383
 short_hz1: 4276
@@ -42439,7 +42439,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #25:
-                                
+
 Name: 0005.reb
 hz_float: 2.4068403244018555
 short_hz1: 2476
@@ -42494,7 +42494,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #26:
-                                
+
 Name: 0005.reb
 hz_float: 2.572618007659912
 short_hz1: -23098
@@ -42549,7 +42549,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #27:
-                                
+
 Name: 0005.reb
 hz_float: 2.516127586364746
 short_hz1: 17
@@ -42604,7 +42604,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #28:
-                                
+
 Name: 0005.reb
 hz_float: 2.5705602169036865
 short_hz1: -31729
@@ -42659,7 +42659,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #29:
-                                
+
 Name: 0005.reb
 hz_float: 3.5514891147613525
 short_hz1: 19353
@@ -42714,7 +42714,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #30:
-                                
+
 Name: 0005.reb
 hz_float: 3.4818520545959473
 short_hz1: -10582
@@ -42769,7 +42769,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #31:
-                                
+
 Name: 0005.reb
 hz_float: 4.161134719848633
 short_hz1: 10244
@@ -42824,7 +42824,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #32:
-                                
+
 Name: 0005.reb
 hz_float: 4.311958312988281
 short_hz1: -1136
@@ -42879,7 +42879,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #33:
-                                
+
 Name: effect_fire01.reb
 hz_float: 3.2154064178466797
 short_hz1: -14024
@@ -42934,7 +42934,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #34:
-                                
+
 Name: effect_fire01.reb
 hz_float: 3.4818520545959473
 short_hz1: -10582
@@ -42989,7 +42989,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #35:
-                                
+
 Name: 0005.reb
 hz_float: 3.844245672225952
 short_hz1: 2079
@@ -43044,7 +43044,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #36:
-                                
+
 Name: 0005.reb
 hz_float: 4.329244136810303
 short_hz1: -30421
@@ -43099,7 +43099,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #37:
-                                
+
 Name: 0005.reb
 hz_float: 3.4135804176330566
 short_hz1: 30746
@@ -43154,7 +43154,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #38:
-                                
+
 Name: 0005.reb
 hz_float: 3.3466475009918213
 short_hz1: 12153
@@ -43209,7 +43209,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #39:
-                                
+
 Name: 0005.reb
 hz_float: 2.605240821838379
 short_hz1: -17340
@@ -43264,7 +43264,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #40:
-                                
+
 Name: 0005.reb
 hz_float: 3.23410964012146
 short_hz1: -1113
@@ -43319,7 +43319,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #41:
-                                
+
 Name: 0005.reb
 hz_float: 3.10603928565979
 short_hz1: -13991
@@ -43374,7 +43374,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #42:
-                                
+
 Name: 0005.reb
 hz_float: 2.774674892425537
 short_hz1: -27578
@@ -43429,7 +43429,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #43:
-                                
+
 Name: 0005.reb
 hz_float: 3.0720572471618652
 short_hz1: -25450
@@ -43484,7 +43484,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #44:
-                                
+
 Name: 0005.reb
 hz_float: 2.8971848487854004
 short_hz1: 27514
@@ -43539,7 +43539,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #45:
-                                
+
 Name: 0005.reb
 hz_float: 2.771348237991333
 short_hz1: 24005
@@ -43594,7 +43594,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #46:
-                                
+
 Name: 0005.reb
 hz_float: 2.7713472843170166
 short_hz1: 24001
@@ -43649,7 +43649,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #47:
-                                
+
 Name: 0005.reb
 hz_float: 2.725717544555664
 short_hz1: 29224
@@ -43704,7 +43704,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #48:
-                                
+
 Name: 0005.reb
 hz_float: 3.0142314434051514
 short_hz1: -5845
@@ -43759,7 +43759,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #49:
-                                
+
 Name: 0005.reb
 hz_float: 2.838106393814087
 short_hz1: -23671
@@ -43814,7 +43814,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #50:
-                                
+
 Name: 0005.reb
 hz_float: 2.7322680950164795
 short_hz1: -8837
@@ -43869,7 +43869,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #51:
-                                
+
 Name: 0005.reb
 hz_float: 2.5767383575439453
 short_hz1: -5816
@@ -43924,7 +43924,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #52:
-                                
+
 Name: 0005.reb
 hz_float: 3.273160219192505
 short_hz1: 31605
@@ -43979,7 +43979,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #53:
-                                
+
 Name: 0005.reb
 hz_float: 4.146178722381592
 short_hz1: -21121
@@ -44034,7 +44034,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #54:
-                                
+
 Name: 0005.reb
 hz_float: 3.6949691772460938
 short_hz1: 31328
@@ -44089,7 +44089,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #55:
-                                
+
 Name: 0005.reb
 hz_float: 3.62251877784729
 short_hz1: -10407
@@ -44144,7 +44144,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #56:
-                                
+
 Name: 0005.reb
 hz_float: 5.072398662567139
 short_hz1: 20759
@@ -44199,7 +44199,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #57:
-                                
+
 Name: 0005.reb
 hz_float: 4.50414514541626
 short_hz1: 8693
@@ -44254,7 +44254,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #58:
-                                
+
 Name: 0005.reb
 hz_float: 4.50414514541626
 short_hz1: 8693
@@ -44309,7 +44309,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #59:
-                                
+
 Name: 0005.reb
 hz_float: 3.248373031616211
 short_hz1: -6824
@@ -44364,7 +44364,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #60:
-                                
+
 Name: 0005.reb
 hz_float: 3.62106990814209
 short_hz1: -16484
@@ -44419,7 +44419,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #61:
-                                
+
 Name: 0005.reb
 hz_float: 3.6875839233398438
 short_hz1: 352
@@ -44474,7 +44474,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #62:
-                                
+
 Name: 0005.reb
 hz_float: 2.6915857791900635
 short_hz1: -28633
@@ -44529,7 +44529,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #63:
-                                
+
 Name: 0005.reb
 hz_float: 4.357912063598633
 short_hz1: 29700
@@ -44584,7 +44584,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #64:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.800325632095337
 short_hz1: 14473
@@ -44639,7 +44639,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #65:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.6905086040496826
 short_hz1: 12619
@@ -44694,7 +44694,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #66:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.8563320636749268
 short_hz1: 7138
@@ -44749,7 +44749,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #67:
-                                
+
 Name: effect_fire01.reb
 hz_float: 3.0178515911102295
 short_hz1: 9339
@@ -44804,7 +44804,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #68:
-                                
+
 Name: 0023.reb
 hz_float: 1.0
 short_hz1: 0
@@ -44859,7 +44859,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #69:
-                                
+
 Name: 0023.reb
 hz_float: 1.0
 short_hz1: 0
@@ -44914,7 +44914,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #70:
-                                
+
 Name: 0023.reb
 hz_float: 1.0
 short_hz1: 0
@@ -44969,7 +44969,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #71:
-                                
+
 Name: 0023.reb
 hz_float: 1.0
 short_hz1: 0
@@ -45024,7 +45024,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #72:
-                                
+
 Name: 0023.reb
 hz_float: 1.1950923204421997
 short_hz1: -1847
@@ -45079,7 +45079,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #73:
-                                
+
 Name: 0023.reb
 hz_float: 1.0
 short_hz1: 0
@@ -45134,7 +45134,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #74:
-                                
+
 Name: 0023.reb
 hz_float: 1.0
 short_hz1: 0
@@ -45189,7 +45189,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #75:
-                                
+
 Name: 0023.reb
 hz_float: 1.0
 short_hz1: 0
@@ -45244,7 +45244,7 @@ yet_more_hz_value_16: 16256
 ⭐️
 
 Effect #76:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -45299,7 +45299,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #77:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -45354,7 +45354,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #78:
-                                
+
 Name: light.r3m
 hz_float: 1.5064194202423096
 short_hz1: 0
@@ -45409,7 +45409,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #79:
-                                
+
 Name: light.r3m
 hz_float: 0.46559199690818787
 short_hz1: 0
@@ -45464,7 +45464,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #80:
-                                
+
 Name: light.r3m
 hz_float: -0.6200093030929565
 short_hz1: 0
@@ -45519,7 +45519,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #81:
-                                
+
 Name: light.r3m
 hz_float: -0.38629117608070374
 short_hz1: 0
@@ -45574,7 +45574,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #82:
-                                
+
 Name: light.r3m
 hz_float: 0.03447185829281807
 short_hz1: 0
@@ -45629,7 +45629,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #83:
-                                
+
 Name: light.r3m
 hz_float: 1.3304082155227661
 short_hz1: 0
@@ -45684,7 +45684,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #84:
-                                
+
 Name: light.r3m
 hz_float: 1.2913706302642822
 short_hz1: 0
@@ -45739,7 +45739,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #85:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -45794,7 +45794,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #86:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -45849,7 +45849,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #87:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -45904,7 +45904,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #88:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -45959,7 +45959,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #89:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -46014,7 +46014,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #90:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -46069,7 +46069,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #91:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.9903103113174438
 short_hz1: -15747
@@ -46124,7 +46124,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #92:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.2972426414489746
 short_hz1: 1542
@@ -46179,7 +46179,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #93:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.48561429977417
 short_hz1: 5198
@@ -46234,7 +46234,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #94:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.9958913326263428
 short_hz1: 31070
@@ -46289,7 +46289,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #95:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.9974892139434814
 short_hz1: -21062
@@ -46344,7 +46344,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #96:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.07901930809021
 short_hz1: 3751
@@ -46399,7 +46399,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #97:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.3900511264801025
 short_hz1: -2407
@@ -46454,7 +46454,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #98:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.9606748819351196
 short_hz1: -2203
@@ -46509,7 +46509,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #99:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.47568941116333
 short_hz1: 29106
@@ -46564,7 +46564,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #100:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.4339542388916016
 short_hz1: -14872
@@ -46619,7 +46619,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #101:
-                                
+
 Name: effect_fire01.reb
 hz_float: 3.405395984649658
 short_hz1: -3582
@@ -46674,7 +46674,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #102:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.3900511264801025
 short_hz1: -2407
@@ -46729,7 +46729,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #103:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.4866092205047607
 short_hz1: 9371
@@ -46784,7 +46784,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #104:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.2944867610931396
 short_hz1: -10017
@@ -46839,7 +46839,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #105:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.0773565769195557
 short_hz1: -3223
@@ -46894,7 +46894,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #106:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.8845396041870117
 short_hz1: 14488
@@ -46949,7 +46949,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #107:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.8113605976104736
 short_hz1: -9558
@@ -47004,7 +47004,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #108:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.8394752740859985
 short_hz1: 29677
@@ -47059,7 +47059,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #109:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.569346308708191
 short_hz1: -8105
@@ -47114,7 +47114,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #110:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.8792688846588135
 short_hz1: -29726
@@ -47169,7 +47169,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #111:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.8438955545425415
 short_hz1: 1221
@@ -47224,7 +47224,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #112:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.706885576248169
 short_hz1: 31546
@@ -47279,7 +47279,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #113:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.296323537826538
 short_hz1: -2313
@@ -47334,7 +47334,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #114:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.2972426414489746
 short_hz1: 1542
@@ -47389,7 +47389,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #115:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.208038091659546
 short_hz1: 20607
@@ -47444,7 +47444,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #116:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.340376615524292
 short_hz1: -14149
@@ -47499,7 +47499,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #117:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.342249870300293
 short_hz1: -6292
@@ -47554,7 +47554,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #118:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.437852144241333
 short_hz1: 1477
@@ -47609,7 +47609,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #119:
-                                
+
 Name: effect_fire01.reb
 hz_float: 2.2521986961364746
 short_hz1: 9222
@@ -47664,7 +47664,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #120:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.9606748819351196
 short_hz1: -2203
@@ -47719,7 +47719,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #121:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.8113605976104736
 short_hz1: -9558
@@ -47774,7 +47774,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #122:
-                                
+
 Name: effect_fire01.reb
 hz_float: 1.8830323219299316
 short_hz1: 1844
@@ -47829,7 +47829,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #123:
-                                
+
 Name: 0005.reb
 hz_float: 3.759831428527832
 short_hz1: -24300
@@ -47884,7 +47884,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #124:
-                                
+
 Name: 0005.reb
 hz_float: 3.7553210258483887
 short_hz1: 22318
@@ -47939,7 +47939,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #125:
-                                
+
 Name: 0005.reb
 hz_float: 2.0374393463134766
 short_hz1: 25960
@@ -47994,7 +47994,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #126:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -48049,7 +48049,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #127:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -48104,7 +48104,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #128:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -48159,7 +48159,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #129:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -48214,7 +48214,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #130:
-                                
+
 Name: 0005.reb
 hz_float: 1.7368491888046265
 short_hz1: 20755
@@ -48269,7 +48269,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #131:
-                                
+
 Name: 0005.reb
 hz_float: 1.6084363460540771
 short_hz1: -7874
@@ -48324,7 +48324,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #132:
-                                
+
 Name: 0005.reb
 hz_float: 1.2591410875320435
 short_hz1: 11145
@@ -48379,7 +48379,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #133:
-                                
+
 Name: 0005.reb
 hz_float: 2.745417356491089
 short_hz1: -19221
@@ -48434,7 +48434,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #134:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -48489,7 +48489,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #135:
-                                
+
 Name: 0005.reb
 hz_float: 2.251297950744629
 short_hz1: 5444
@@ -48544,7 +48544,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #136:
-                                
+
 Name: 0005.reb
 hz_float: 2.9586782455444336
 short_hz1: 23292
@@ -48599,7 +48599,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #137:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -48654,7 +48654,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #138:
-                                
+
 Name: 0005.reb
 hz_float: 2.6261706352233887
 short_hz1: 4910
@@ -48709,7 +48709,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #139:
-                                
+
 Name: 0005.reb
 hz_float: 2.4359021186828613
 short_hz1: -6702
@@ -48764,7 +48764,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #140:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -48819,7 +48819,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #141:
-                                
+
 Name: 0005.reb
 hz_float: 1.7021119594573975
 short_hz1: -8498
@@ -48874,7 +48874,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #142:
-                                
+
 Name: 0005.reb
 hz_float: 3.0275259017944336
 short_hz1: -15620
@@ -48929,7 +48929,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #143:
-                                
+
 Name: 0005.reb
 hz_float: 1.8372681140899658
 short_hz1: 11162
@@ -48984,7 +48984,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #144:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -49039,7 +49039,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #145:
-                                
+
 Name: 0005.reb
 hz_float: 2.1205999851226807
 short_hz1: -18455
@@ -49094,7 +49094,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #146:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -49149,7 +49149,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #147:
-                                
+
 Name: 0005.reb
 hz_float: 2.039885997772217
 short_hz1: -29314
@@ -49204,7 +49204,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #148:
-                                
+
 Name: 0005.reb
 hz_float: 2.2521986961364746
 short_hz1: 9222
@@ -49259,7 +49259,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #149:
-                                
+
 Name: 0005.reb
 hz_float: 1.6727479696273804
 short_hz1: 7323
@@ -49314,7 +49314,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #150:
-                                
+
 Name: 0005.reb
 hz_float: 1.267227053642273
 short_hz1: 13439
@@ -49369,7 +49369,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #151:
-                                
+
 Name: 0005.reb
 hz_float: 1.485946774482727
 short_hz1: 13185
@@ -49424,7 +49424,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #152:
-                                
+
 Name: 0005.reb
 hz_float: 2.3319647312164307
 short_hz1: 16105
@@ -49479,7 +49479,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #153:
-                                
+
 Name: 0005.reb
 hz_float: 1.809187889099121
 short_hz1: -27784
@@ -49534,7 +49534,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #154:
-                                
+
 Name: 0005.reb
 hz_float: 2.080683708190918
 short_hz1: 10732
@@ -49589,7 +49589,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #155:
-                                
+
 Name: 0005.reb
 hz_float: 2.6272220611572266
 short_hz1: 9320
@@ -49644,7 +49644,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #156:
-                                
+
 Name: 0005.reb
 hz_float: 1.5453606843948364
 short_hz1: -12703
@@ -49699,7 +49699,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #157:
-                                
+
 Name: 0005.reb
 hz_float: 2.249497652053833
 short_hz1: -2107
@@ -49754,7 +49754,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #158:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -49809,7 +49809,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #159:
-                                
+
 Name: 0005.reb
 hz_float: 2.912292718887329
 short_hz1: 25345
@@ -49864,7 +49864,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #160:
-                                
+
 Name: 0005.reb
 hz_float: 1.4533175230026245
 short_hz1: 1615
@@ -49919,7 +49919,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #161:
-                                
+
 Name: 0005.reb
 hz_float: 1.920692801475525
 short_hz1: -9917
@@ -49974,7 +49974,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #162:
-                                
+
 Name: 0005.reb
 hz_float: 2.6388096809387207
 short_hz1: -7614
@@ -50029,7 +50029,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #163:
-                                
+
 Name: 0005.reb
 hz_float: 1.5156656503677368
 short_hz1: 341
@@ -50084,7 +50084,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #164:
-                                
+
 Name: 0005.reb
 hz_float: 3.9995529651641846
 short_hz1: -1875
@@ -50139,7 +50139,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #165:
-                                
+
 Name: 0005.reb
 hz_float: 1.8475878238677979
 short_hz1: 32194
@@ -50194,7 +50194,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #166:
-                                
+
 Name: 0005.reb
 hz_float: 1.8113605976104736
 short_hz1: -9558
@@ -50249,7 +50249,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #167:
-                                
+
 Name: 0005.reb
 hz_float: 1.3963247537612915
 short_hz1: -17723
@@ -50304,7 +50304,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #168:
-                                
+
 Name: 0005.reb
 hz_float: 1.9199243783950806
 short_hz1: -16363
@@ -50359,7 +50359,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #169:
-                                
+
 Name: 0005.reb
 hz_float: 2.164743185043335
 short_hz1: -29913
@@ -50414,7 +50414,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #170:
-                                
+
 Name: 0005.reb
 hz_float: 2.0252482891082764
 short_hz1: -25173
@@ -50469,7 +50469,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #171:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -50524,7 +50524,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #172:
-                                
+
 Name: 0005.reb
 hz_float: 1.810636043548584
 short_hz1: -15636
@@ -50579,7 +50579,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #173:
-                                
+
 Name: 0005.reb
 hz_float: 1.6953160762786865
 short_hz1: 30
@@ -50634,7 +50634,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #174:
-                                
+
 Name: 0005.reb
 hz_float: 2.536341428756714
 short_hz1: 21355
@@ -50689,7 +50689,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #175:
-                                
+
 Name: 0005.reb
 hz_float: 2.483626127243042
 short_hz1: -3141
@@ -50744,7 +50744,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #176:
-                                
+
 Name: 0005.reb
 hz_float: 3.4053955078125
 short_hz1: -3584
@@ -50799,7 +50799,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #177:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -50854,7 +50854,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #178:
-                                
+
 Name: 0005.reb
 hz_float: 2.9717276096343994
 short_hz1: 12489
@@ -50909,7 +50909,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #179:
-                                
+
 Name: 0005.reb
 hz_float: 3.091785192489624
 short_hz1: -8241
@@ -50964,7 +50964,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #180:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -51019,7 +51019,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #181:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -51074,7 +51074,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #182:
-                                
+
 Name: 0005.reb
 hz_float: 2.160416603088379
 short_hz1: 17476
@@ -51129,7 +51129,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #183:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -51184,7 +51184,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #184:
-                                
+
 Name: 0005.reb
 hz_float: 2.341313362121582
 short_hz1: -10220
@@ -51239,7 +51239,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #185:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -51294,7 +51294,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #186:
-                                
+
 Name: 0005.reb
 hz_float: 1.9168546199798584
 short_hz1: 23422
@@ -51349,7 +51349,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #187:
-                                
+
 Name: 0005.reb
 hz_float: 1.8837857246398926
 short_hz1: 8164
@@ -51404,7 +51404,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #188:
-                                
+
 Name: 0005.reb
 hz_float: 1.7751333713531494
 short_hz1: 14226
@@ -51459,7 +51459,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #189:
-                                
+
 Name: 0005.reb
 hz_float: 2.039885997772217
 short_hz1: -29314
@@ -51514,7 +51514,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #190:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -51569,7 +51569,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #191:
-                                
+
 Name: 0005.reb
 hz_float: 1.5391905307769775
 short_hz1: 1074
@@ -51624,7 +51624,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #192:
-                                
+
 Name: 0005.reb
 hz_float: 1.8845396041870117
 short_hz1: 14488
@@ -51679,7 +51679,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #193:
-                                
+
 Name: 0005.reb
 hz_float: 1.485946774482727
 short_hz1: 13185
@@ -51734,7 +51734,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #194:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -51789,7 +51789,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #195:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -51844,7 +51844,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #196:
-                                
+
 Name: 0005.reb
 hz_float: 1.7062028646469116
 short_hz1: 25819
@@ -51899,7 +51899,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #197:
-                                
+
 Name: 0005.reb
 hz_float: 1.7340714931488037
 short_hz1: -2546
@@ -51954,7 +51954,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #198:
-                                
+
 Name: 0005.reb
 hz_float: 1.9982887506484985
 short_hz1: -14355
@@ -52009,7 +52009,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #199:
-                                
+
 Name: 0005.reb
 hz_float: 2.164743185043335
 short_hz1: -29913
@@ -52064,7 +52064,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #200:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -52119,7 +52119,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #201:
-                                
+
 Name: 0005.reb
 hz_float: 1.706885576248169
 short_hz1: 31546
@@ -52174,7 +52174,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #202:
-                                
+
 Name: 0005.reb
 hz_float: 2.9717276096343994
 short_hz1: 12489
@@ -52229,7 +52229,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #203:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -52284,7 +52284,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #204:
-                                
+
 Name: 0005.reb
 hz_float: 3.0843729972839355
 short_hz1: 26206
@@ -52339,7 +52339,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #205:
-                                
+
 Name: 0005.reb
 hz_float: 1.3173686265945435
 short_hz1: -24695
@@ -52394,7 +52394,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #206:
-                                
+
 Name: 0005.reb
 hz_float: 1.6058650016784668
 short_hz1: -29444
@@ -52449,7 +52449,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #207:
-                                
+
 Name: 0005.reb
 hz_float: 2.5343124866485596
 short_hz1: 12845
@@ -52504,7 +52504,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #208:
-                                
+
 Name: 0005.reb
 hz_float: 1.1463898420333862
 short_hz1: -17177
@@ -52559,7 +52559,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #209:
-                                
+
 Name: 0005.reb
 hz_float: 1.9222303628921509
 short_hz1: 2981
@@ -52614,7 +52614,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #210:
-                                
+
 Name: 0005.reb
 hz_float: 1.881525993347168
 short_hz1: -10792
@@ -52669,7 +52669,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #211:
-                                
+
 Name: 0005.reb
 hz_float: 2.536341428756714
 short_hz1: 21355
@@ -52724,7 +52724,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #212:
-                                
+
 Name: 0005.reb
 hz_float: 1.576898455619812
 short_hz1: -10289
@@ -52779,7 +52779,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #213:
-                                
+
 Name: 0005.reb
 hz_float: 1.4282456636428833
 short_hz1: -12095
@@ -52834,7 +52834,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #214:
-                                
+
 Name: 0005.reb
 hz_float: 2.11720871925354
 short_hz1: -32679
@@ -52889,7 +52889,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #215:
-                                
+
 Name: 0005.reb
 hz_float: 2.725717306137085
 short_hz1: 29223
@@ -52944,7 +52944,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #216:
-                                
+
 Name: 0005.reb
 hz_float: 2.4866092205047607
 short_hz1: 9371
@@ -52999,7 +52999,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #217:
-                                
+
 Name: 0005.reb
 hz_float: 1.8845396041870117
 short_hz1: 14488
@@ -53054,7 +53054,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #218:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -53109,7 +53109,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #219:
-                                
+
 Name: 0005.reb
 hz_float: 2.4866092205047607
 short_hz1: 9371
@@ -53164,7 +53164,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #220:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -53219,7 +53219,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #221:
-                                
+
 Name: 0005.reb
 hz_float: 2.208038091659546
 short_hz1: 20607
@@ -53274,7 +53274,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #222:
-                                
+
 Name: 0005.reb
 hz_float: 1.4002408981323242
 short_hz1: 15128
@@ -53329,7 +53329,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #223:
-                                
+
 Name: 0005.reb
 hz_float: 1.576898455619812
 short_hz1: -10289
@@ -53384,7 +53384,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #224:
-                                
+
 Name: 0005.reb
 hz_float: 1.5398058891296387
 short_hz1: 6236
@@ -53439,7 +53439,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #225:
-                                
+
 Name: 0005.reb
 hz_float: 3.477675199508667
 short_hz1: -28101
@@ -53494,7 +53494,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #226:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -53549,7 +53549,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #227:
-                                
+
 Name: 0005.reb
 hz_float: 2.800325632095337
 short_hz1: 14473
@@ -53604,7 +53604,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #228:
-                                
+
 Name: 0005.reb
 hz_float: 1.809911847114563
 short_hz1: -21711
@@ -53659,7 +53659,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #229:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -53714,7 +53714,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #230:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -53769,7 +53769,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #231:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -53824,7 +53824,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #232:
-                                
+
 Name: 0005.reb
 hz_float: 1.8475878238677979
 short_hz1: 32194
@@ -53879,7 +53879,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #233:
-                                
+
 Name: 0005.reb
 hz_float: 1.8453714847564697
 short_hz1: 13602
@@ -53934,7 +53934,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #234:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -53989,7 +53989,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #235:
-                                
+
 Name: 0005.reb
 hz_float: 1.8113605976104736
 short_hz1: -9558
@@ -54044,7 +54044,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #236:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -54099,7 +54099,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #237:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -54154,7 +54154,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #238:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -54209,7 +54209,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #239:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -54264,7 +54264,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #240:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -54319,7 +54319,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #241:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -54374,7 +54374,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #242:
-                                
+
 Name: 0005.reb
 hz_float: 1.8106358051300049
 short_hz1: -15638
@@ -54429,7 +54429,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #243:
-                                
+
 Name: 0005.reb
 hz_float: 2.039885997772217
 short_hz1: -29314
@@ -54484,7 +54484,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #244:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -54539,7 +54539,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #245:
-                                
+
 Name: 0005.reb
 hz_float: 1.640605092048645
 short_hz1: -167
@@ -54594,7 +54594,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #246:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -54649,7 +54649,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #247:
-                                
+
 Name: 0005.reb
 hz_float: 2.2972426414489746
 short_hz1: 1542
@@ -54704,7 +54704,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #248:
-                                
+
 Name: 0005.reb
 hz_float: 2.340376853942871
 short_hz1: -14148
@@ -54759,7 +54759,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #249:
-                                
+
 Name: 0005.reb
 hz_float: 2.0349955558776855
 short_hz1: 15710
@@ -54814,7 +54814,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #250:
-                                
+
 Name: 0005.reb
 hz_float: 1.637326955795288
 short_hz1: -27666
@@ -54869,7 +54869,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #251:
-                                
+
 Name: 0005.reb
 hz_float: 2.4866092205047607
 short_hz1: 9371
@@ -54924,7 +54924,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #252:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -54979,7 +54979,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #253:
-                                
+
 Name: 0005.reb
 hz_float: 1.0
 short_hz1: 0
@@ -55034,7 +55034,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #254:
-                                
+
 Name: 0005.reb
 hz_float: 2.2521986961364746
 short_hz1: 9222
@@ -55089,7 +55089,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #255:
-                                
+
 Name: 0005.reb
 hz_float: 2.3890950679779053
 short_hz1: -6417
@@ -55144,7 +55144,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #256:
-                                
+
 Name: 0005.reb
 hz_float: 2.5353267192840576
 short_hz1: 17099
@@ -55199,7 +55199,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #257:
-                                
+
 Name: 0005.reb
 hz_float: 2.909963846206665
 short_hz1: 15577
@@ -55254,7 +55254,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #258:
-                                
+
 Name: light.r3m
 hz_float: 0.03447185829281807
 short_hz1: 0
@@ -55309,7 +55309,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #259:
-                                
+
 Name: light.r3m
 hz_float: 0.03447185829281807
 short_hz1: 0
@@ -55364,7 +55364,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #260:
-                                
+
 Name: light.r3m
 hz_float: 0.03447185829281807
 short_hz1: 0
@@ -55419,7 +55419,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #261:
-                                
+
 Name: light.r3m
 hz_float: 0.03447185829281807
 short_hz1: 0
@@ -55474,7 +55474,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #262:
-                                
+
 Name: light.r3m
 hz_float: 0.03447185829281807
 short_hz1: 0
@@ -55529,7 +55529,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #263:
-                                
+
 Name: light.r3m
 hz_float: 0.03447185829281807
 short_hz1: 0
@@ -55584,7 +55584,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #264:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -55639,7 +55639,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #265:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -55694,7 +55694,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #266:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -55749,7 +55749,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #267:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -55804,7 +55804,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #268:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -55859,7 +55859,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #269:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -55914,7 +55914,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #270:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -55969,7 +55969,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #271:
-                                
+
 Name: light.r3m
 hz_float: 0.11453035473823547
 short_hz1: 0
@@ -56024,7 +56024,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #272:
-                                
+
 Name: light.r3m
 hz_float: 0.48116418719291687
 short_hz1: 0
@@ -56079,7 +56079,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #273:
-                                
+
 Name: light.r3m
 hz_float: 0.8964964747428894
 short_hz1: 0
@@ -56134,7 +56134,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #274:
-                                
+
 Name: light.r3m
 hz_float: -0.3517538607120514
 short_hz1: 0
@@ -56189,7 +56189,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #275:
-                                
+
 Name: light.r3m
 hz_float: -1.2247905731201172
 short_hz1: 0
@@ -56244,7 +56244,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #276:
-                                
+
 Name: light.r3m
 hz_float: 0.7821292877197266
 short_hz1: 0
@@ -56299,7 +56299,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #277:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -56354,7 +56354,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #278:
-                                
+
 Name: light.r3m
 hz_float: -1.4651577472686768
 short_hz1: 0
@@ -56409,7 +56409,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #279:
-                                
+
 Name: light.r3m
 hz_float: 0.34207743406295776
 short_hz1: 0
@@ -56464,7 +56464,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #280:
-                                
+
 Name: light.r3m
 hz_float: 0.2579619586467743
 short_hz1: 0
@@ -56519,7 +56519,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #281:
-                                
+
 Name: light.r3m
 hz_float: 1.198232889175415
 short_hz1: 0
@@ -56574,7 +56574,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #282:
-                                
+
 Name: light.r3m
 hz_float: -1.46457839012146
 short_hz1: 0
@@ -56629,7 +56629,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #283:
-                                
+
 Name: light.r3m
 hz_float: 1.198232889175415
 short_hz1: 0
@@ -56684,7 +56684,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #284:
-                                
+
 Name: light.r3m
 hz_float: -1.46457839012146
 short_hz1: 0
@@ -56739,7 +56739,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #285:
-                                
+
 Name: light.r3m
 hz_float: 1.198232889175415
 short_hz1: 0
@@ -56794,7 +56794,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #286:
-                                
+
 Name: light.r3m
 hz_float: 1.198232889175415
 short_hz1: 0
@@ -56849,7 +56849,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #287:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -56904,7 +56904,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #288:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -56959,7 +56959,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #289:
-                                
+
 Name: light.r3m
 hz_float: -0.11258409917354584
 short_hz1: 0
@@ -57014,7 +57014,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #290:
-                                
+
 Name: light.r3m
 hz_float: 0.6905214786529541
 short_hz1: 0
@@ -57069,7 +57069,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #291:
-                                
+
 Name: light.r3m
 hz_float: -1.1710866689682007
 short_hz1: 0
@@ -57124,7 +57124,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #292:
-                                
+
 Name: light.r3m
 hz_float: 1.4527708292007446
 short_hz1: 0
@@ -57179,7 +57179,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #293:
-                                
+
 Name: light.r3m
 hz_float: -0.19098445773124695
 short_hz1: 0
@@ -57234,7 +57234,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #294:
-                                
+
 Name: light.r3m
 hz_float: -0.4076959490776062
 short_hz1: 0
@@ -57289,7 +57289,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #295:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -57344,7 +57344,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #296:
-                                
+
 Name: light.r3m
 hz_float: 0.6606969833374023
 short_hz1: 0
@@ -57399,7 +57399,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #297:
-                                
+
 Name: light.r3m
 hz_float: -1.1384263038635254
 short_hz1: 0
@@ -57454,7 +57454,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #298:
-                                
+
 Name: light.r3m
 hz_float: 1.3632915019989014
 short_hz1: 0
@@ -57509,7 +57509,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #299:
-                                
+
 Name: light.r3m
 hz_float: -1.513493299484253
 short_hz1: 0
@@ -57564,7 +57564,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #300:
-                                
+
 Name: light.r3m
 hz_float: -1.1710866689682007
 short_hz1: 0
@@ -57619,7 +57619,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #301:
-                                
+
 Name: light.r3m
 hz_float: -1.1710866689682007
 short_hz1: 0
@@ -57674,7 +57674,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #302:
-                                
+
 Name: light.r3m
 hz_float: 1.4527708292007446
 short_hz1: 0
@@ -57729,7 +57729,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #303:
-                                
+
 Name: light.r3m
 hz_float: -0.11258409917354584
 short_hz1: 0
@@ -57784,7 +57784,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #304:
-                                
+
 Name: light.r3m
 hz_float: -0.19098445773124695
 short_hz1: 0
@@ -57839,7 +57839,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #305:
-                                
+
 Name: light.r3m
 hz_float: -0.19098445773124695
 short_hz1: 0
@@ -57894,7 +57894,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #306:
-                                
+
 Name: light.r3m
 hz_float: -0.19098445773124695
 short_hz1: 0
@@ -57949,7 +57949,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #307:
-                                
+
 Name: light.r3m
 hz_float: -0.19098445773124695
 short_hz1: 0
@@ -58004,7 +58004,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #308:
-                                
+
 Name: light.r3m
 hz_float: -0.19098445773124695
 short_hz1: 0
@@ -58059,7 +58059,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #309:
-                                
+
 Name: light.r3m
 hz_float: -0.19098445773124695
 short_hz1: 0
@@ -58114,7 +58114,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #310:
-                                
+
 Name: light.r3m
 hz_float: -0.19098445773124695
 short_hz1: 0
@@ -58169,7 +58169,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #311:
-                                
+
 Name: light.r3m
 hz_float: -0.19098445773124695
 short_hz1: 0
@@ -58224,7 +58224,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #312:
-                                
+
 Name: light.r3m
 hz_float: -0.19098445773124695
 short_hz1: 0
@@ -58279,7 +58279,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #313:
-                                
+
 Name: light.r3m
 hz_float: -0.19098445773124695
 short_hz1: 0
@@ -58334,7 +58334,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #314:
-                                
+
 Name: light.r3m
 hz_float: -0.19098445773124695
 short_hz1: 0
@@ -58389,7 +58389,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #315:
-                                
+
 Name: light.r3m
 hz_float: -0.19098445773124695
 short_hz1: 0
@@ -58444,7 +58444,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #316:
-                                
+
 Name: light.r3m
 hz_float: -0.4076959490776062
 short_hz1: 0
@@ -58499,7 +58499,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #317:
-                                
+
 Name: light.r3m
 hz_float: -0.4076959490776062
 short_hz1: 0
@@ -58554,7 +58554,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #318:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -58609,7 +58609,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #319:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -58664,7 +58664,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #320:
-                                
+
 Name: light.r3m
 hz_float: -0.11258409917354584
 short_hz1: 0
@@ -58719,7 +58719,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #321:
-                                
+
 Name: light.r3m
 hz_float: -0.11258409917354584
 short_hz1: 0
@@ -58774,7 +58774,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #322:
-                                
+
 Name: light.r3m
 hz_float: -0.11258409917354584
 short_hz1: 0
@@ -58829,7 +58829,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #323:
-                                
+
 Name: light.r3m
 hz_float: -0.11258409917354584
 short_hz1: 0
@@ -58884,7 +58884,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #324:
-                                
+
 Name: light.r3m
 hz_float: -1.5134626626968384
 short_hz1: 0
@@ -58939,7 +58939,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #325:
-                                
+
 Name: light.r3m
 hz_float: -1.5134626626968384
 short_hz1: 0
@@ -58994,7 +58994,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #326:
-                                
+
 Name: light.r3m
 hz_float: -1.5134626626968384
 short_hz1: 0
@@ -59049,7 +59049,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #327:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -59104,7 +59104,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #328:
-                                
+
 Name: light.r3m
 hz_float: 0.6905214786529541
 short_hz1: 0
@@ -59159,7 +59159,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #329:
-                                
+
 Name: light.r3m
 hz_float: 0.5555940270423889
 short_hz1: 0
@@ -59214,7 +59214,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #330:
-                                
+
 Name: light.r3m
 hz_float: 0.5555940270423889
 short_hz1: 0
@@ -59269,7 +59269,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #331:
-                                
+
 Name: light.r3m
 hz_float: 0.5555940270423889
 short_hz1: 0
@@ -59324,7 +59324,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #332:
-                                
+
 Name: light.r3m
 hz_float: 0.5555940270423889
 short_hz1: 0
@@ -59379,7 +59379,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #333:
-                                
+
 Name: light.r3m
 hz_float: 0.5555940270423889
 short_hz1: 0
@@ -59434,7 +59434,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #334:
-                                
+
 Name: light.r3m
 hz_float: 0.555592954158783
 short_hz1: 0
@@ -59489,7 +59489,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #335:
-                                
+
 Name: light.r3m
 hz_float: 0.5555940270423889
 short_hz1: 0
@@ -59544,7 +59544,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #336:
-                                
+
 Name: light.r3m
 hz_float: 0.5555940270423889
 short_hz1: 0
@@ -59599,7 +59599,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #337:
-                                
+
 Name: light.r3m
 hz_float: 0.5555940270423889
 short_hz1: 0
@@ -59654,7 +59654,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #338:
-                                
+
 Name: light.r3m
 hz_float: 0.5555940270423889
 short_hz1: 0
@@ -59709,7 +59709,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #339:
-                                
+
 Name: light.r3m
 hz_float: 0.5555940270423889
 short_hz1: 0
@@ -59764,7 +59764,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #340:
-                                
+
 Name: light.r3m
 hz_float: 0.5555940270423889
 short_hz1: 0
@@ -59819,7 +59819,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #341:
-                                
+
 Name: light.r3m
 hz_float: 1.1765300035476685
 short_hz1: 0
@@ -59874,7 +59874,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #342:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -59929,7 +59929,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #343:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -59984,7 +59984,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #344:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -60039,7 +60039,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #345:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -60094,7 +60094,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #346:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -60149,7 +60149,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #347:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -60204,7 +60204,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #348:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -60259,7 +60259,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #349:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -60314,7 +60314,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #350:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -60369,7 +60369,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #351:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -60424,7 +60424,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #352:
-                                
+
 Name: light.r3m
 hz_float: 1.1765304803848267
 short_hz1: 0
@@ -60479,7 +60479,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #353:
-                                
+
 Name: light.r3m
 hz_float: 1.1765304803848267
 short_hz1: 0
@@ -60534,7 +60534,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #354:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -60589,7 +60589,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #355:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -60644,7 +60644,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #356:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -60699,7 +60699,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #357:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -60754,7 +60754,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #358:
-                                
+
 Name: light.r3m
 hz_float: 1.1765300035476685
 short_hz1: 0
@@ -60809,7 +60809,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #359:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -60864,7 +60864,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #360:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -60919,7 +60919,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #361:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -60974,7 +60974,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #362:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -61029,7 +61029,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #363:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -61084,7 +61084,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #364:
-                                
+
 Name: light.r3m
 hz_float: 1.1765295267105103
 short_hz1: 0
@@ -61139,7 +61139,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #365:
-                                
+
 Name: light.r3m
 hz_float: 0.3412828743457794
 short_hz1: 0
@@ -61194,7 +61194,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #366:
-                                
+
 Name: light.r3m
 hz_float: 0.3412818908691406
 short_hz1: 0
@@ -61249,7 +61249,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #367:
-                                
+
 Name: light.r3m
 hz_float: 0.3412818908691406
 short_hz1: 0
@@ -61304,7 +61304,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #368:
-                                
+
 Name: light.r3m
 hz_float: 0.3412818908691406
 short_hz1: 0
@@ -61359,7 +61359,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #369:
-                                
+
 Name: light.r3m
 hz_float: 0.3412818908691406
 short_hz1: 0
@@ -61414,7 +61414,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #370:
-                                
+
 Name: light.r3m
 hz_float: 0.3412851393222809
 short_hz1: 0
@@ -61469,7 +61469,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #371:
-                                
+
 Name: light.r3m
 hz_float: 0.3412818908691406
 short_hz1: 0
@@ -61524,7 +61524,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #372:
-                                
+
 Name: light.r3m
 hz_float: 0.3412818908691406
 short_hz1: 0
@@ -61579,7 +61579,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #373:
-                                
+
 Name: light.r3m
 hz_float: 0.3412818908691406
 short_hz1: 0
@@ -61634,7 +61634,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #374:
-                                
+
 Name: light.r3m
 hz_float: 0.3412818908691406
 short_hz1: 0
@@ -61689,7 +61689,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #375:
-                                
+
 Name: light.r3m
 hz_float: 0.3412818908691406
 short_hz1: 0
@@ -61744,7 +61744,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #376:
-                                
+
 Name: light.r3m
 hz_float: 0.3412818908691406
 short_hz1: 0
@@ -61799,7 +61799,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #377:
-                                
+
 Name: light.r3m
 hz_float: -0.0230676531791687
 short_hz1: 0
@@ -61854,7 +61854,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #378:
-                                
+
 Name: light.r3m
 hz_float: -0.02306755632162094
 short_hz1: 0
@@ -61909,7 +61909,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #379:
-                                
+
 Name: light.r3m
 hz_float: -0.02306755632162094
 short_hz1: 0
@@ -61964,7 +61964,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #380:
-                                
+
 Name: light.r3m
 hz_float: -0.02306755632162094
 short_hz1: 0
@@ -62019,7 +62019,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #381:
-                                
+
 Name: light.r3m
 hz_float: -0.02306755632162094
 short_hz1: 0
@@ -62074,7 +62074,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #382:
-                                
+
 Name: light.r3m
 hz_float: -0.02306755632162094
 short_hz1: 0
@@ -62129,7 +62129,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #383:
-                                
+
 Name: light.r3m
 hz_float: -0.023065391927957535
 short_hz1: 0
@@ -62184,7 +62184,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #384:
-                                
+
 Name: light.r3m
 hz_float: -0.02306755632162094
 short_hz1: 0
@@ -62239,7 +62239,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #385:
-                                
+
 Name: light.r3m
 hz_float: -0.02306755632162094
 short_hz1: 0
@@ -62294,7 +62294,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #386:
-                                
+
 Name: light.r3m
 hz_float: -0.02306755632162094
 short_hz1: 0
@@ -62349,7 +62349,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #387:
-                                
+
 Name: light.r3m
 hz_float: -0.02306755632162094
 short_hz1: 0
@@ -62404,7 +62404,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #388:
-                                
+
 Name: light.r3m
 hz_float: -0.02306755632162094
 short_hz1: 0
@@ -62459,7 +62459,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #389:
-                                
+
 Name: light.r3m
 hz_float: -1.231641411781311
 short_hz1: 0
@@ -62514,7 +62514,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #390:
-                                
+
 Name: light.r3m
 hz_float: -1.2316381931304932
 short_hz1: 0
@@ -62569,7 +62569,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #391:
-                                
+
 Name: light.r3m
 hz_float: -1.2316381931304932
 short_hz1: 0
@@ -62624,7 +62624,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #392:
-                                
+
 Name: light.r3m
 hz_float: -1.2316381931304932
 short_hz1: 0
@@ -62679,7 +62679,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #393:
-                                
+
 Name: light.r3m
 hz_float: -1.2316381931304932
 short_hz1: 0
@@ -62734,7 +62734,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #394:
-                                
+
 Name: light.r3m
 hz_float: -1.2316399812698364
 short_hz1: 0
@@ -62789,7 +62789,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #395:
-                                
+
 Name: light.r3m
 hz_float: -1.2316381931304932
 short_hz1: 0
@@ -62844,7 +62844,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #396:
-                                
+
 Name: light.r3m
 hz_float: -1.2316381931304932
 short_hz1: 0
@@ -62899,7 +62899,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #397:
-                                
+
 Name: light.r3m
 hz_float: -1.2316381931304932
 short_hz1: 0
@@ -62954,7 +62954,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #398:
-                                
+
 Name: light.r3m
 hz_float: -1.2316381931304932
 short_hz1: 0
@@ -63009,7 +63009,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #399:
-                                
+
 Name: light.r3m
 hz_float: -1.2316381931304932
 short_hz1: 0
@@ -63064,7 +63064,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #400:
-                                
+
 Name: light.r3m
 hz_float: -1.2316381931304932
 short_hz1: 0
@@ -63119,7 +63119,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #401:
-                                
+
 Name: light.r3m
 hz_float: -1.1426141262054443
 short_hz1: 0
@@ -63174,7 +63174,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #402:
-                                
+
 Name: light.r3m
 hz_float: -1.1426137685775757
 short_hz1: 0
@@ -63229,7 +63229,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #403:
-                                
+
 Name: light.r3m
 hz_float: -1.4578826427459717
 short_hz1: 0
@@ -63284,7 +63284,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #404:
-                                
+
 Name: light.r3m
 hz_float: -1.4578880071640015
 short_hz1: 0
@@ -63339,7 +63339,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #405:
-                                
+
 Name: light.r3m
 hz_float: -1.4787899255752563
 short_hz1: 0
@@ -63394,7 +63394,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #406:
-                                
+
 Name: light.r3m
 hz_float: -1.4787836074829102
 short_hz1: 0
@@ -63449,7 +63449,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #407:
-                                
+
 Name: light.r3m
 hz_float: -0.2014162838459015
 short_hz1: 0
@@ -63504,7 +63504,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #408:
-                                
+
 Name: light.r3m
 hz_float: -0.2014140486717224
 short_hz1: 0
@@ -63559,7 +63559,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #409:
-                                
+
 Name: light.r3m
 hz_float: -0.48306766152381897
 short_hz1: 0
@@ -63614,7 +63614,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #410:
-                                
+
 Name: light.r3m
 hz_float: -0.4830631911754608
 short_hz1: 0
@@ -63669,7 +63669,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #411:
-                                
+
 Name: light.r3m
 hz_float: -1.476943850517273
 short_hz1: 0
@@ -63724,7 +63724,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #412:
-                                
+
 Name: light.r3m
 hz_float: -1.4769551753997803
 short_hz1: 0
@@ -63779,7 +63779,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #413:
-                                
+
 Name: light.r3m
 hz_float: -0.11258409917354584
 short_hz1: 0
@@ -63834,7 +63834,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #414:
-                                
+
 Name: light.r3m
 hz_float: -0.11258409917354584
 short_hz1: 0
@@ -63889,7 +63889,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #415:
-                                
+
 Name: light.r3m
 hz_float: -1.5153701305389404
 short_hz1: 0
@@ -63944,7 +63944,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #416:
-                                
+
 Name: light.r3m
 hz_float: -1.5153677463531494
 short_hz1: 0
@@ -63999,7 +63999,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #417:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -64054,7 +64054,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #418:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -64109,7 +64109,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #419:
-                                
+
 Name: light.r3m
 hz_float: -1.3096247911453247
 short_hz1: 0
@@ -64164,7 +64164,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #420:
-                                
+
 Name: light.r3m
 hz_float: 1.5031068325042725
 short_hz1: 0
@@ -64219,7 +64219,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #421:
-                                
+
 Name: light.r3m
 hz_float: 0.5808389782905579
 short_hz1: 0
@@ -64274,7 +64274,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #422:
-                                
+
 Name: light.r3m
 hz_float: 0.008187711238861084
 short_hz1: 0
@@ -64329,7 +64329,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #423:
-                                
+
 Name: light.r3m
 hz_float: 0.008187711238861084
 short_hz1: 0
@@ -64384,7 +64384,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #424:
-                                
+
 Name: light.r3m
 hz_float: 0.008187711238861084
 short_hz1: 0
@@ -64439,7 +64439,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #425:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -64494,7 +64494,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #426:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -64549,7 +64549,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #427:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -64604,7 +64604,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #428:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -64659,7 +64659,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #429:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -64714,7 +64714,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #430:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -64769,7 +64769,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #431:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -64824,7 +64824,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #432:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -64879,7 +64879,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #433:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -64934,7 +64934,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #434:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -64989,7 +64989,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #435:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65044,7 +65044,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #436:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65099,7 +65099,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #437:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65154,7 +65154,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #438:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65209,7 +65209,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #439:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65264,7 +65264,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #440:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65319,7 +65319,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #441:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65374,7 +65374,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #442:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65429,7 +65429,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #443:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65484,7 +65484,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #444:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65539,7 +65539,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #445:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65594,7 +65594,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #446:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65649,7 +65649,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #447:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65704,7 +65704,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #448:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65759,7 +65759,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #449:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65814,7 +65814,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #450:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65869,7 +65869,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #451:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65924,7 +65924,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #452:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -65979,7 +65979,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #453:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -66034,7 +66034,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #454:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -66089,7 +66089,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #455:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -66144,7 +66144,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #456:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -66199,7 +66199,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #457:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -66254,7 +66254,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #458:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -66309,7 +66309,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #459:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -66364,7 +66364,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #460:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -66419,7 +66419,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #461:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -66474,7 +66474,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #462:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -66529,7 +66529,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #463:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -66584,7 +66584,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #464:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -66639,7 +66639,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #465:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -66694,7 +66694,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #466:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -66749,7 +66749,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #467:
-                                
+
 Name: 0005.reb
 hz_float: 1.2403929233551025
 short_hz1: -15054
@@ -66804,7 +66804,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #468:
-                                
+
 Name: 0005.reb
 hz_float: 1.3952081203460693
 short_hz1: -27090
@@ -66859,7 +66859,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #469:
-                                
+
 Name: 0005.reb
 hz_float: 1.341567039489746
 short_hz1: -18312
@@ -66914,7 +66914,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #470:
-                                
+
 Name: 0005.reb
 hz_float: 1.218994140625
 short_hz1: 2048
@@ -66969,7 +66969,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #471:
-                                
+
 Name: 0005.reb
 hz_float: 1.393534541130066
 short_hz1: 24407
@@ -67024,7 +67024,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #472:
-                                
+
 Name: 0005.reb
 hz_float: 1.2646944522857666
 short_hz1: -7806
@@ -67079,7 +67079,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #473:
-                                
+
 Name: 0005.reb
 hz_float: 1.3194782733917236
 short_hz1: -6998
@@ -67134,7 +67134,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #474:
-                                
+
 Name: 0005.reb
 hz_float: 1.5138475894927979
 short_hz1: -14910
@@ -67189,7 +67189,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #475:
-                                
+
 Name: 0005.reb
 hz_float: 2.1095993518829346
 short_hz1: 941
@@ -67244,7 +67244,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #476:
-                                
+
 Name: 0005.reb
 hz_float: 1.4568105936050415
 short_hz1: 30917
@@ -67299,7 +67299,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #477:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -67354,7 +67354,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #478:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -67409,7 +67409,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #479:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -67464,7 +67464,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #480:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -67519,7 +67519,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #481:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -67574,7 +67574,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #482:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -67629,7 +67629,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #483:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -67684,7 +67684,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #484:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -67739,7 +67739,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #485:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -67794,7 +67794,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #486:
-                                
+
 Name: light.r3m
 hz_float: 1.5087414979934692
 short_hz1: 0
@@ -67849,7 +67849,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #487:
-                                
+
 Name: light.r3m
 hz_float: 1.5087440013885498
 short_hz1: 0
@@ -67904,7 +67904,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #488:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -67959,7 +67959,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #489:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68014,7 +68014,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #490:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68069,7 +68069,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #491:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68124,7 +68124,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #492:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68179,7 +68179,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #493:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68234,7 +68234,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #494:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68289,7 +68289,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #495:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68344,7 +68344,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #496:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68399,7 +68399,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #497:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68454,7 +68454,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #498:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68509,7 +68509,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #499:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68564,7 +68564,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #500:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68619,7 +68619,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #501:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68674,7 +68674,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #502:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68729,7 +68729,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #503:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68784,7 +68784,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #504:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68839,7 +68839,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #505:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68894,7 +68894,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #506:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -68949,7 +68949,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #507:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69004,7 +69004,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #508:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69059,7 +69059,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #509:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69114,7 +69114,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #510:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69169,7 +69169,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #511:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69224,7 +69224,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #512:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69279,7 +69279,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #513:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69334,7 +69334,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #514:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69389,7 +69389,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #515:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69444,7 +69444,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #516:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69499,7 +69499,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #517:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69554,7 +69554,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #518:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69609,7 +69609,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #519:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69664,7 +69664,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #520:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69719,7 +69719,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #521:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69774,7 +69774,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #522:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -69829,7 +69829,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #523:
-                                
+
 Name: light.r3m
 hz_float: 0.6443518996238708
 short_hz1: 0
@@ -69884,7 +69884,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #524:
-                                
+
 Name: light.r3m
 hz_float: 0.6443501710891724
 short_hz1: 0
@@ -69939,7 +69939,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #525:
-                                
+
 Name: light.r3m
 hz_float: 0.6443501710891724
 short_hz1: 0
@@ -69994,7 +69994,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #526:
-                                
+
 Name: light.r3m
 hz_float: 0.6443501710891724
 short_hz1: 0
@@ -70049,7 +70049,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #527:
-                                
+
 Name: light.r3m
 hz_float: 0.6443501710891724
 short_hz1: 0
@@ -70104,7 +70104,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #528:
-                                
+
 Name: light.r3m
 hz_float: 0.6443533897399902
 short_hz1: 0
@@ -70159,7 +70159,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #529:
-                                
+
 Name: light.r3m
 hz_float: 0.6443497538566589
 short_hz1: 0
@@ -70214,7 +70214,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #530:
-                                
+
 Name: light.r3m
 hz_float: 0.6443501710891724
 short_hz1: 0
@@ -70269,7 +70269,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #531:
-                                
+
 Name: light.r3m
 hz_float: 0.6443501710891724
 short_hz1: 0
@@ -70324,7 +70324,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #532:
-                                
+
 Name: light.r3m
 hz_float: 0.6443501710891724
 short_hz1: 0
@@ -70379,7 +70379,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #533:
-                                
+
 Name: light.r3m
 hz_float: 0.6443501710891724
 short_hz1: 0
@@ -70434,7 +70434,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #534:
-                                
+
 Name: light.r3m
 hz_float: 0.6443501710891724
 short_hz1: 0
@@ -70489,7 +70489,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #535:
-                                
+
 Name: light.r3m
 hz_float: -0.8867177367210388
 short_hz1: 0
@@ -70544,7 +70544,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #536:
-                                
+
 Name: light.r3m
 hz_float: -0.8867166638374329
 short_hz1: 0
@@ -70599,7 +70599,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #537:
-                                
+
 Name: light.r3m
 hz_float: -0.8867166638374329
 short_hz1: 0
@@ -70654,7 +70654,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #538:
-                                
+
 Name: light.r3m
 hz_float: -0.8867166638374329
 short_hz1: 0
@@ -70709,7 +70709,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #539:
-                                
+
 Name: light.r3m
 hz_float: -0.8867166638374329
 short_hz1: 0
@@ -70764,7 +70764,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #540:
-                                
+
 Name: light.r3m
 hz_float: -0.8867166638374329
 short_hz1: 0
@@ -70819,7 +70819,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #541:
-                                
+
 Name: light.r3m
 hz_float: -0.8867183327674866
 short_hz1: 0
@@ -70874,7 +70874,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #542:
-                                
+
 Name: light.r3m
 hz_float: -0.8867166638374329
 short_hz1: 0
@@ -70929,7 +70929,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #543:
-                                
+
 Name: light.r3m
 hz_float: -0.8867166638374329
 short_hz1: 0
@@ -70984,7 +70984,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #544:
-                                
+
 Name: light.r3m
 hz_float: -0.8867166638374329
 short_hz1: 0
@@ -71039,7 +71039,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #545:
-                                
+
 Name: light.r3m
 hz_float: -0.8867166638374329
 short_hz1: 0
@@ -71094,7 +71094,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #546:
-                                
+
 Name: light.r3m
 hz_float: -0.8867200613021851
 short_hz1: 0
@@ -71149,7 +71149,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #547:
-                                
+
 Name: light.r3m
 hz_float: -0.5737224817276001
 short_hz1: 0
@@ -71204,7 +71204,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #548:
-                                
+
 Name: light.r3m
 hz_float: -0.5737231373786926
 short_hz1: 0
@@ -71259,7 +71259,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #549:
-                                
+
 Name: light.r3m
 hz_float: -0.5737231373786926
 short_hz1: 0
@@ -71314,7 +71314,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #550:
-                                
+
 Name: light.r3m
 hz_float: -0.5737231373786926
 short_hz1: 0
@@ -71369,7 +71369,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #551:
-                                
+
 Name: light.r3m
 hz_float: -0.5737231373786926
 short_hz1: 0
@@ -71424,7 +71424,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #552:
-                                
+
 Name: light.r3m
 hz_float: -0.5737231373786926
 short_hz1: 0
@@ -71479,7 +71479,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #553:
-                                
+
 Name: light.r3m
 hz_float: -0.5737268924713135
 short_hz1: 0
@@ -71534,7 +71534,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #554:
-                                
+
 Name: light.r3m
 hz_float: -0.5737231373786926
 short_hz1: 0
@@ -71589,7 +71589,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #555:
-                                
+
 Name: light.r3m
 hz_float: -0.5737231373786926
 short_hz1: 0
@@ -71644,7 +71644,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #556:
-                                
+
 Name: light.r3m
 hz_float: -0.5737231373786926
 short_hz1: 0
@@ -71699,7 +71699,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #557:
-                                
+
 Name: light.r3m
 hz_float: -0.573725163936615
 short_hz1: 0
@@ -71754,7 +71754,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #558:
-                                
+
 Name: light.r3m
 hz_float: -0.5737231373786926
 short_hz1: 0
@@ -71809,7 +71809,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #559:
-                                
+
 Name: light.r3m
 hz_float: 0.023889640346169472
 short_hz1: 0
@@ -71864,7 +71864,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #560:
-                                
+
 Name: light.r3m
 hz_float: 0.02388845384120941
 short_hz1: 0
@@ -71919,7 +71919,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #561:
-                                
+
 Name: light.r3m
 hz_float: 0.023888373747467995
 short_hz1: 0
@@ -71974,7 +71974,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #562:
-                                
+
 Name: light.r3m
 hz_float: 0.023888373747467995
 short_hz1: 0
@@ -72029,7 +72029,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #563:
-                                
+
 Name: light.r3m
 hz_float: 0.023888373747467995
 short_hz1: 0
@@ -72084,7 +72084,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #564:
-                                
+
 Name: light.r3m
 hz_float: 0.02388596534729004
 short_hz1: 0
@@ -72139,7 +72139,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #565:
-                                
+
 Name: light.r3m
 hz_float: 0.023889265954494476
 short_hz1: 0
@@ -72194,7 +72194,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #566:
-                                
+
 Name: light.r3m
 hz_float: 0.023888373747467995
 short_hz1: 0
@@ -72249,7 +72249,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #567:
-                                
+
 Name: light.r3m
 hz_float: 0.023888373747467995
 short_hz1: 0
@@ -72304,7 +72304,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #568:
-                                
+
 Name: light.r3m
 hz_float: 0.023888373747467995
 short_hz1: 0
@@ -72359,7 +72359,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #569:
-                                
+
 Name: light.r3m
 hz_float: 0.023888373747467995
 short_hz1: 0
@@ -72414,7 +72414,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #570:
-                                
+
 Name: light.r3m
 hz_float: 0.023888373747467995
 short_hz1: 0
@@ -72469,7 +72469,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #571:
-                                
+
 Name: light.r3m
 hz_float: 0.8997369408607483
 short_hz1: 0
@@ -72524,7 +72524,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #572:
-                                
+
 Name: light.r3m
 hz_float: 0.8997383117675781
 short_hz1: 0
@@ -72579,7 +72579,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #573:
-                                
+
 Name: light.r3m
 hz_float: 0.8997383117675781
 short_hz1: 0
@@ -72634,7 +72634,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #574:
-                                
+
 Name: light.r3m
 hz_float: 0.8997383117675781
 short_hz1: 0
@@ -72689,7 +72689,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #575:
-                                
+
 Name: light.r3m
 hz_float: 0.8997378349304199
 short_hz1: 0
@@ -72744,7 +72744,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #576:
-                                
+
 Name: light.r3m
 hz_float: 0.8997383117675781
 short_hz1: 0
@@ -72799,7 +72799,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #577:
-                                
+
 Name: light.r3m
 hz_float: 0.8997383117675781
 short_hz1: 0
@@ -72854,7 +72854,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #578:
-                                
+
 Name: light.r3m
 hz_float: 0.8997383117675781
 short_hz1: 0
@@ -72909,7 +72909,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #579:
-                                
+
 Name: light.r3m
 hz_float: 0.8997383117675781
 short_hz1: 0
@@ -72964,7 +72964,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #580:
-                                
+
 Name: light.r3m
 hz_float: 0.8997383117675781
 short_hz1: 0
@@ -73019,7 +73019,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #581:
-                                
+
 Name: light.r3m
 hz_float: 0.8997431397438049
 short_hz1: 0
@@ -73074,7 +73074,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #582:
-                                
+
 Name: light.r3m
 hz_float: 0.8997368812561035
 short_hz1: 0
@@ -73129,7 +73129,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #583:
-                                
+
 Name: light.r3m
 hz_float: 0.9748186469078064
 short_hz1: 0
@@ -73184,7 +73184,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #584:
-                                
+
 Name: light.r3m
 hz_float: 0.9748114347457886
 short_hz1: 0
@@ -73239,7 +73239,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #585:
-                                
+
 Name: light.r3m
 hz_float: 0.9748128652572632
 short_hz1: 0
@@ -73294,7 +73294,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #586:
-                                
+
 Name: light.r3m
 hz_float: 0.9748128652572632
 short_hz1: 0
@@ -73349,7 +73349,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #587:
-                                
+
 Name: light.r3m
 hz_float: 0.9748128652572632
 short_hz1: 0
@@ -73404,7 +73404,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #588:
-                                
+
 Name: light.r3m
 hz_float: 0.9748125076293945
 short_hz1: 0
@@ -73459,7 +73459,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #589:
-                                
+
 Name: light.r3m
 hz_float: 0.9748128652572632
 short_hz1: 0
@@ -73514,7 +73514,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #590:
-                                
+
 Name: light.r3m
 hz_float: 0.9748128652572632
 short_hz1: 0
@@ -73569,7 +73569,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #591:
-                                
+
 Name: light.r3m
 hz_float: 0.9748128652572632
 short_hz1: 0
@@ -73624,7 +73624,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #592:
-                                
+
 Name: light.r3m
 hz_float: 0.9748128652572632
 short_hz1: 0
@@ -73679,7 +73679,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #593:
-                                
+
 Name: light.r3m
 hz_float: 0.9748128652572632
 short_hz1: 0
@@ -73734,7 +73734,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #594:
-                                
+
 Name: light.r3m
 hz_float: 0.9748110175132751
 short_hz1: 0
@@ -73789,7 +73789,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #595:
-                                
+
 Name: light.r3m
 hz_float: 0.7333732843399048
 short_hz1: 0
@@ -73844,7 +73844,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #596:
-                                
+
 Name: light.r3m
 hz_float: 0.7333691716194153
 short_hz1: 0
@@ -73899,7 +73899,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #597:
-                                
+
 Name: light.r3m
 hz_float: 0.7333711981773376
 short_hz1: 0
@@ -73954,7 +73954,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #598:
-                                
+
 Name: light.r3m
 hz_float: 0.7333711981773376
 short_hz1: 0
@@ -74009,7 +74009,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #599:
-                                
+
 Name: light.r3m
 hz_float: 0.7333711981773376
 short_hz1: 0
@@ -74064,7 +74064,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #600:
-                                
+
 Name: light.r3m
 hz_float: 0.7333739399909973
 short_hz1: 0
@@ -74119,7 +74119,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #601:
-                                
+
 Name: light.r3m
 hz_float: 0.7333711981773376
 short_hz1: 0
@@ -74174,7 +74174,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #602:
-                                
+
 Name: light.r3m
 hz_float: 0.7333711981773376
 short_hz1: 0
@@ -74229,7 +74229,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #603:
-                                
+
 Name: light.r3m
 hz_float: 0.7333711981773376
 short_hz1: 0
@@ -74284,7 +74284,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #604:
-                                
+
 Name: light.r3m
 hz_float: 0.7333711981773376
 short_hz1: 0
@@ -74339,7 +74339,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #605:
-                                
+
 Name: light.r3m
 hz_float: 0.7333711981773376
 short_hz1: 0
@@ -74394,7 +74394,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #606:
-                                
+
 Name: light.r3m
 hz_float: 0.7333680391311646
 short_hz1: 0
@@ -74449,7 +74449,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #607:
-                                
+
 Name: light.r3m
 hz_float: 0.3801954984664917
 short_hz1: 0
@@ -74504,7 +74504,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #608:
-                                
+
 Name: light.r3m
 hz_float: 0.38019242882728577
 short_hz1: 0
@@ -74559,7 +74559,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #609:
-                                
+
 Name: light.r3m
 hz_float: 0.3801954388618469
 short_hz1: 0
@@ -74614,7 +74614,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #610:
-                                
+
 Name: light.r3m
 hz_float: 0.3801954388618469
 short_hz1: 0
@@ -74669,7 +74669,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #611:
-                                
+
 Name: light.r3m
 hz_float: 0.3801954388618469
 short_hz1: 0
@@ -74724,7 +74724,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #612:
-                                
+
 Name: light.r3m
 hz_float: 0.3801969587802887
 short_hz1: 0
@@ -74779,7 +74779,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #613:
-                                
+
 Name: light.r3m
 hz_float: 0.3801954388618469
 short_hz1: 0
@@ -74834,7 +74834,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #614:
-                                
+
 Name: light.r3m
 hz_float: 0.3801954388618469
 short_hz1: 0
@@ -74889,7 +74889,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #615:
-                                
+
 Name: light.r3m
 hz_float: 0.3801954388618469
 short_hz1: 0
@@ -74944,7 +74944,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #616:
-                                
+
 Name: light.r3m
 hz_float: 0.3801954388618469
 short_hz1: 0
@@ -74999,7 +74999,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #617:
-                                
+
 Name: light.r3m
 hz_float: 0.3801954388618469
 short_hz1: 0
@@ -75054,7 +75054,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #618:
-                                
+
 Name: light.r3m
 hz_float: 0.38019272685050964
 short_hz1: 0
@@ -75109,7 +75109,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #619:
-                                
+
 Name: light.r3m
 hz_float: -0.5388450026512146
 short_hz1: 0
@@ -75164,7 +75164,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #620:
-                                
+
 Name: light.r3m
 hz_float: -0.5388433933258057
 short_hz1: 0
@@ -75219,7 +75219,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #621:
-                                
+
 Name: light.r3m
 hz_float: -0.5388392806053162
 short_hz1: 0
@@ -75274,7 +75274,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #622:
-                                
+
 Name: light.r3m
 hz_float: -0.5388392806053162
 short_hz1: 0
@@ -75329,7 +75329,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #623:
-                                
+
 Name: light.r3m
 hz_float: -0.5388392806053162
 short_hz1: 0
@@ -75384,7 +75384,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #624:
-                                
+
 Name: light.r3m
 hz_float: -0.5388392806053162
 short_hz1: 0
@@ -75439,7 +75439,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #625:
-                                
+
 Name: light.r3m
 hz_float: -0.5388392806053162
 short_hz1: 0
@@ -75494,7 +75494,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #626:
-                                
+
 Name: light.r3m
 hz_float: -0.5388418436050415
 short_hz1: 0
@@ -75549,7 +75549,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #627:
-                                
+
 Name: light.r3m
 hz_float: -0.5388392806053162
 short_hz1: 0
@@ -75604,7 +75604,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #628:
-                                
+
 Name: light.r3m
 hz_float: -0.5388392806053162
 short_hz1: 0
@@ -75659,7 +75659,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #629:
-                                
+
 Name: light.r3m
 hz_float: -0.5388392806053162
 short_hz1: 0
@@ -75714,7 +75714,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #630:
-                                
+
 Name: light.r3m
 hz_float: -0.5388403534889221
 short_hz1: 0
@@ -75769,7 +75769,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #631:
-                                
+
 Name: light.r3m
 hz_float: -1.128666877746582
 short_hz1: 0
@@ -75824,7 +75824,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #632:
-                                
+
 Name: light.r3m
 hz_float: -1.1286627054214478
 short_hz1: 0
@@ -75879,7 +75879,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #633:
-                                
+
 Name: light.r3m
 hz_float: -1.128658413887024
 short_hz1: 0
@@ -75934,7 +75934,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #634:
-                                
+
 Name: light.r3m
 hz_float: -1.128658413887024
 short_hz1: 0
@@ -75989,7 +75989,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #635:
-                                
+
 Name: light.r3m
 hz_float: -1.128658413887024
 short_hz1: 0
@@ -76044,7 +76044,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #636:
-                                
+
 Name: light.r3m
 hz_float: -1.1286624670028687
 short_hz1: 0
@@ -76099,7 +76099,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #637:
-                                
+
 Name: light.r3m
 hz_float: -1.128658413887024
 short_hz1: 0
@@ -76154,7 +76154,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #638:
-                                
+
 Name: light.r3m
 hz_float: -1.128658413887024
 short_hz1: 0
@@ -76209,7 +76209,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #639:
-                                
+
 Name: light.r3m
 hz_float: -1.128658413887024
 short_hz1: 0
@@ -76264,7 +76264,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #640:
-                                
+
 Name: light.r3m
 hz_float: -1.128658413887024
 short_hz1: 0
@@ -76319,7 +76319,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #641:
-                                
+
 Name: light.r3m
 hz_float: -1.128658413887024
 short_hz1: 0
@@ -76374,7 +76374,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #642:
-                                
+
 Name: light.r3m
 hz_float: -1.1286566257476807
 short_hz1: 0
@@ -76429,7 +76429,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #643:
-                                
+
 Name: light.r3m
 hz_float: -1.2546190023422241
 short_hz1: 0
@@ -76484,7 +76484,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #644:
-                                
+
 Name: light.r3m
 hz_float: -1.2546143531799316
 short_hz1: 0
@@ -76539,7 +76539,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #645:
-                                
+
 Name: light.r3m
 hz_float: -1.2546099424362183
 short_hz1: 0
@@ -76594,7 +76594,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #646:
-                                
+
 Name: light.r3m
 hz_float: -1.2546099424362183
 short_hz1: 0
@@ -76649,7 +76649,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #647:
-                                
+
 Name: light.r3m
 hz_float: -1.2546099424362183
 short_hz1: 0
@@ -76704,7 +76704,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #648:
-                                
+
 Name: light.r3m
 hz_float: -1.2546099424362183
 short_hz1: 0
@@ -76759,7 +76759,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #649:
-                                
+
 Name: light.r3m
 hz_float: -1.2546099424362183
 short_hz1: 0
@@ -76814,7 +76814,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #650:
-                                
+
 Name: light.r3m
 hz_float: -1.2546099424362183
 short_hz1: 0
@@ -76869,7 +76869,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #651:
-                                
+
 Name: light.r3m
 hz_float: -1.2546137571334839
 short_hz1: 0
@@ -76924,7 +76924,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #652:
-                                
+
 Name: light.r3m
 hz_float: -1.2546099424362183
 short_hz1: 0
@@ -76979,7 +76979,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #653:
-                                
+
 Name: light.r3m
 hz_float: -1.2546099424362183
 short_hz1: 0
@@ -77034,7 +77034,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #654:
-                                
+
 Name: light.r3m
 hz_float: -1.254608154296875
 short_hz1: 0
@@ -77089,7 +77089,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #655:
-                                
+
 Name: light.r3m
 hz_float: -0.34923726320266724
 short_hz1: 0
@@ -77144,7 +77144,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #656:
-                                
+
 Name: light.r3m
 hz_float: -0.34923282265663147
 short_hz1: 0
@@ -77199,7 +77199,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #657:
-                                
+
 Name: light.r3m
 hz_float: -0.34923556447029114
 short_hz1: 0
@@ -77254,7 +77254,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #658:
-                                
+
 Name: light.r3m
 hz_float: -0.34923556447029114
 short_hz1: 0
@@ -77309,7 +77309,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #659:
-                                
+
 Name: light.r3m
 hz_float: -0.34923556447029114
 short_hz1: 0
@@ -77364,7 +77364,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #660:
-                                
+
 Name: light.r3m
 hz_float: -0.34923824667930603
 short_hz1: 0
@@ -77419,7 +77419,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #661:
-                                
+
 Name: light.r3m
 hz_float: -0.34923556447029114
 short_hz1: 0
@@ -77474,7 +77474,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #662:
-                                
+
 Name: light.r3m
 hz_float: -0.34923556447029114
 short_hz1: 0
@@ -77529,7 +77529,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #663:
-                                
+
 Name: light.r3m
 hz_float: -0.34923556447029114
 short_hz1: 0
@@ -77584,7 +77584,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #664:
-                                
+
 Name: light.r3m
 hz_float: -0.34923556447029114
 short_hz1: 0
@@ -77639,7 +77639,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #665:
-                                
+
 Name: light.r3m
 hz_float: -0.34923556447029114
 short_hz1: 0
@@ -77694,7 +77694,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #666:
-                                
+
 Name: light.r3m
 hz_float: -0.3492336571216583
 short_hz1: 0
@@ -77749,7 +77749,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #667:
-                                
+
 Name: light.r3m
 hz_float: 0.15725699067115784
 short_hz1: 0
@@ -77804,7 +77804,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #668:
-                                
+
 Name: light.r3m
 hz_float: 0.15725907683372498
 short_hz1: 0
@@ -77859,7 +77859,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #669:
-                                
+
 Name: light.r3m
 hz_float: 0.15725424885749817
 short_hz1: 0
@@ -77914,7 +77914,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #670:
-                                
+
 Name: light.r3m
 hz_float: 0.15725424885749817
 short_hz1: 0
@@ -77969,7 +77969,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #671:
-                                
+
 Name: light.r3m
 hz_float: 0.15725424885749817
 short_hz1: 0
@@ -78024,7 +78024,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #672:
-                                
+
 Name: light.r3m
 hz_float: 0.15725314617156982
 short_hz1: 0
@@ -78079,7 +78079,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #673:
-                                
+
 Name: light.r3m
 hz_float: 0.15725424885749817
 short_hz1: 0
@@ -78134,7 +78134,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #674:
-                                
+
 Name: light.r3m
 hz_float: 0.15725424885749817
 short_hz1: 0
@@ -78189,7 +78189,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #675:
-                                
+
 Name: light.r3m
 hz_float: 0.15725424885749817
 short_hz1: 0
@@ -78244,7 +78244,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #676:
-                                
+
 Name: light.r3m
 hz_float: 0.15725424885749817
 short_hz1: 0
@@ -78299,7 +78299,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #677:
-                                
+
 Name: light.r3m
 hz_float: 0.15725424885749817
 short_hz1: 0
@@ -78354,7 +78354,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #678:
-                                
+
 Name: light.r3m
 hz_float: 0.1572561264038086
 short_hz1: 0
@@ -78409,7 +78409,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #679:
-                                
+
 Name: light.r3m
 hz_float: 1.2403756380081177
 short_hz1: 0
@@ -78464,7 +78464,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #680:
-                                
+
 Name: light.r3m
 hz_float: 1.2403706312179565
 short_hz1: 0
@@ -78519,7 +78519,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #681:
-                                
+
 Name: light.r3m
 hz_float: 1.240362286567688
 short_hz1: 0
@@ -78574,7 +78574,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #682:
-                                
+
 Name: light.r3m
 hz_float: 1.240362286567688
 short_hz1: 0
@@ -78629,7 +78629,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #683:
-                                
+
 Name: light.r3m
 hz_float: 1.240362286567688
 short_hz1: 0
@@ -78684,7 +78684,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #684:
-                                
+
 Name: light.r3m
 hz_float: 1.240362286567688
 short_hz1: 0
@@ -78739,7 +78739,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #685:
-                                
+
 Name: light.r3m
 hz_float: 1.240362286567688
 short_hz1: 0
@@ -78794,7 +78794,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #686:
-                                
+
 Name: light.r3m
 hz_float: 1.2403687238693237
 short_hz1: 0
@@ -78849,7 +78849,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #687:
-                                
+
 Name: light.r3m
 hz_float: 1.240362286567688
 short_hz1: 0
@@ -78904,7 +78904,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #688:
-                                
+
 Name: light.r3m
 hz_float: 1.240362286567688
 short_hz1: 0
@@ -78959,7 +78959,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #689:
-                                
+
 Name: light.r3m
 hz_float: 1.240362286567688
 short_hz1: 0
@@ -79014,7 +79014,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #690:
-                                
+
 Name: light.r3m
 hz_float: 1.2403665781021118
 short_hz1: 0
@@ -79069,7 +79069,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #691:
-                                
+
 Name: 0206.reb
 hz_float: 1.0
 short_hz1: 0
@@ -79124,7 +79124,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #692:
-                                
+
 Name: 0207.reb
 hz_float: 1.0
 short_hz1: 0
@@ -79179,7 +79179,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #693:
-                                
+
 Name: 0208.reb
 hz_float: 1.0
 short_hz1: 0
@@ -79234,7 +79234,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #694:
-                                
+
 Name: 0209.reb
 hz_float: 1.0
 short_hz1: 0
@@ -79289,7 +79289,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #695:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -79344,7 +79344,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #696:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -79399,7 +79399,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #697:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -79454,7 +79454,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #698:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -79509,7 +79509,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #699:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -79564,7 +79564,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #700:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -79619,7 +79619,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #701:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -79674,7 +79674,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #702:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -79729,7 +79729,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #703:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -79784,7 +79784,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #704:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -79839,7 +79839,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #705:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -79894,7 +79894,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #706:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -79949,7 +79949,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #707:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -80004,7 +80004,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #708:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -80059,7 +80059,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #709:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -80114,7 +80114,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #710:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -80169,7 +80169,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #711:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -80224,7 +80224,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #712:
-                                
+
 Name: light.r3m
 hz_float: -1.513493299484253
 short_hz1: 0
@@ -80279,7 +80279,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #713:
-                                
+
 Name: light.r3m
 hz_float: -1.513493299484253
 short_hz1: 0
@@ -80334,7 +80334,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #714:
-                                
+
 Name: light.r3m
 hz_float: -1.513493299484253
 short_hz1: 0
@@ -80389,7 +80389,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #715:
-                                
+
 Name: light.r3m
 hz_float: -1.513493299484253
 short_hz1: 0
@@ -80444,7 +80444,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #716:
-                                
+
 Name: light.r3m
 hz_float: -1.513493299484253
 short_hz1: 0
@@ -80499,7 +80499,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #717:
-                                
+
 Name: light.r3m
 hz_float: -1.513493299484253
 short_hz1: 0
@@ -80554,7 +80554,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #718:
-                                
+
 Name: light.r3m
 hz_float: -1.513493299484253
 short_hz1: 0
@@ -80609,7 +80609,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #719:
-                                
+
 Name: light.r3m
 hz_float: -1.513493299484253
 short_hz1: 0
@@ -80664,7 +80664,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #720:
-                                
+
 Name: light.r3m
 hz_float: -1.513493299484253
 short_hz1: 0
@@ -80719,7 +80719,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #721:
-                                
+
 Name: light.r3m
 hz_float: -1.513493299484253
 short_hz1: 0
@@ -80774,7 +80774,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #722:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -80829,7 +80829,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #723:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -80884,7 +80884,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #724:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -80939,7 +80939,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #725:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -80994,7 +80994,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #726:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -81049,7 +81049,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #727:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -81104,7 +81104,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #728:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -81159,7 +81159,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #729:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -81214,7 +81214,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #730:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -81269,7 +81269,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #731:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -81324,7 +81324,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #732:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -81379,7 +81379,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #733:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -81434,7 +81434,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #734:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -81489,7 +81489,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #735:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -81544,7 +81544,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #736:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -81599,7 +81599,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #737:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -81654,7 +81654,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #738:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -81709,7 +81709,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #739:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -81764,7 +81764,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #740:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -81819,7 +81819,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #741:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -81874,7 +81874,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #742:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -81929,7 +81929,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #743:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -81984,7 +81984,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #744:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -82039,7 +82039,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #745:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -82094,7 +82094,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #746:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -82149,7 +82149,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #747:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -82204,7 +82204,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #748:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -82259,7 +82259,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #749:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -82314,7 +82314,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #750:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -82369,7 +82369,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #751:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -82424,7 +82424,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #752:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -82479,7 +82479,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #753:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -82534,7 +82534,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #754:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -82589,7 +82589,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #755:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -82644,7 +82644,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #756:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -82699,7 +82699,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #757:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -82754,7 +82754,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #758:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -82809,7 +82809,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #759:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -82864,7 +82864,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #760:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -82919,7 +82919,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #761:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -82974,7 +82974,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #762:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -83029,7 +83029,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #763:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -83084,7 +83084,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #764:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -83139,7 +83139,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #765:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -83194,7 +83194,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #766:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -83249,7 +83249,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #767:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -83304,7 +83304,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #768:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -83359,7 +83359,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #769:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -83414,7 +83414,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #770:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -83469,7 +83469,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #771:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -83524,7 +83524,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #772:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -83579,7 +83579,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #773:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -83634,7 +83634,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #774:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -83689,7 +83689,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #775:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -83744,7 +83744,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #776:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -83799,7 +83799,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #777:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -83854,7 +83854,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #778:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -83909,7 +83909,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #779:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -83964,7 +83964,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #780:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -84019,7 +84019,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #781:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -84074,7 +84074,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #782:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -84129,7 +84129,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #783:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -84184,7 +84184,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #784:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -84239,7 +84239,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #785:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -84294,7 +84294,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #786:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -84349,7 +84349,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #787:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -84404,7 +84404,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #788:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -84459,7 +84459,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #789:
-                                
+
 Name: light.r3m
 hz_float: 0.6011371612548828
 short_hz1: 0
@@ -84514,7 +84514,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #790:
-                                
+
 Name: light.r3m
 hz_float: 0.6011398434638977
 short_hz1: 0
@@ -84569,7 +84569,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #791:
-                                
+
 Name: light.r3m
 hz_float: 0.6011398434638977
 short_hz1: 0
@@ -84624,7 +84624,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #792:
-                                
+
 Name: light.r3m
 hz_float: 0.6011398434638977
 short_hz1: 0
@@ -84679,7 +84679,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #793:
-                                
+
 Name: light.r3m
 hz_float: 0.6011398434638977
 short_hz1: 0
@@ -84734,7 +84734,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #794:
-                                
+
 Name: light.r3m
 hz_float: 0.6011398434638977
 short_hz1: 0
@@ -84789,7 +84789,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #795:
-                                
+
 Name: light.r3m
 hz_float: 0.6011419296264648
 short_hz1: 0
@@ -84844,7 +84844,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #796:
-                                
+
 Name: light.r3m
 hz_float: 0.6011398434638977
 short_hz1: 0
@@ -84899,7 +84899,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #797:
-                                
+
 Name: light.r3m
 hz_float: 0.6011398434638977
 short_hz1: 0
@@ -84954,7 +84954,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #798:
-                                
+
 Name: light.r3m
 hz_float: 0.6011398434638977
 short_hz1: 0
@@ -85009,7 +85009,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #799:
-                                
+
 Name: light.r3m
 hz_float: 0.6011375188827515
 short_hz1: 0
@@ -85064,7 +85064,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #800:
-                                
+
 Name: light.r3m
 hz_float: 0.6011403799057007
 short_hz1: 0
@@ -85119,7 +85119,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #801:
-                                
+
 Name: light.r3m
 hz_float: 0.8232336640357971
 short_hz1: 0
@@ -85174,7 +85174,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #802:
-                                
+
 Name: light.r3m
 hz_float: 0.8232308626174927
 short_hz1: 0
@@ -85229,7 +85229,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #803:
-                                
+
 Name: light.r3m
 hz_float: 0.823232889175415
 short_hz1: 0
@@ -85284,7 +85284,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #804:
-                                
+
 Name: light.r3m
 hz_float: 0.823232889175415
 short_hz1: 0
@@ -85339,7 +85339,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #805:
-                                
+
 Name: light.r3m
 hz_float: 0.823232889175415
 short_hz1: 0
@@ -85394,7 +85394,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #806:
-                                
+
 Name: light.r3m
 hz_float: 0.823235809803009
 short_hz1: 0
@@ -85449,7 +85449,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #807:
-                                
+
 Name: light.r3m
 hz_float: 0.823232889175415
 short_hz1: 0
@@ -85504,7 +85504,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #808:
-                                
+
 Name: light.r3m
 hz_float: 0.823232889175415
 short_hz1: 0
@@ -85559,7 +85559,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #809:
-                                
+
 Name: light.r3m
 hz_float: 0.823232889175415
 short_hz1: 0
@@ -85614,7 +85614,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #810:
-                                
+
 Name: light.r3m
 hz_float: 0.823232889175415
 short_hz1: 0
@@ -85669,7 +85669,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #811:
-                                
+
 Name: light.r3m
 hz_float: 0.823232889175415
 short_hz1: 0
@@ -85724,7 +85724,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #812:
-                                
+
 Name: light.r3m
 hz_float: 0.823229968547821
 short_hz1: 0
@@ -85779,7 +85779,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #813:
-                                
+
 Name: light.r3m
 hz_float: 1.268559217453003
 short_hz1: 0
@@ -85834,7 +85834,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #814:
-                                
+
 Name: light.r3m
 hz_float: 1.2685624361038208
 short_hz1: 0
@@ -85889,7 +85889,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #815:
-                                
+
 Name: light.r3m
 hz_float: 1.2685624361038208
 short_hz1: 0
@@ -85944,7 +85944,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #816:
-                                
+
 Name: light.r3m
 hz_float: 1.2685624361038208
 short_hz1: 0
@@ -85999,7 +85999,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #817:
-                                
+
 Name: light.r3m
 hz_float: 1.2685624361038208
 short_hz1: 0
@@ -86054,7 +86054,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #818:
-                                
+
 Name: light.r3m
 hz_float: 1.2685624361038208
 short_hz1: 0
@@ -86109,7 +86109,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #819:
-                                
+
 Name: light.r3m
 hz_float: 1.268566370010376
 short_hz1: 0
@@ -86164,7 +86164,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #820:
-                                
+
 Name: light.r3m
 hz_float: 1.2685624361038208
 short_hz1: 0
@@ -86219,7 +86219,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #821:
-                                
+
 Name: light.r3m
 hz_float: 1.2685624361038208
 short_hz1: 0
@@ -86274,7 +86274,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #822:
-                                
+
 Name: light.r3m
 hz_float: 1.2685624361038208
 short_hz1: 0
@@ -86329,7 +86329,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #823:
-                                
+
 Name: light.r3m
 hz_float: 1.2685620784759521
 short_hz1: 0
@@ -86384,7 +86384,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #824:
-                                
+
 Name: light.r3m
 hz_float: 1.2685660123825073
 short_hz1: 0
@@ -86439,7 +86439,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #825:
-                                
+
 Name: light.r3m
 hz_float: 1.513765811920166
 short_hz1: 0
@@ -86494,7 +86494,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #826:
-                                
+
 Name: light.r3m
 hz_float: 1.513770341873169
 short_hz1: 0
@@ -86549,7 +86549,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #827:
-                                
+
 Name: light.r3m
 hz_float: 1.513770341873169
 short_hz1: 0
@@ -86604,7 +86604,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #828:
-                                
+
 Name: light.r3m
 hz_float: 1.513770341873169
 short_hz1: 0
@@ -86659,7 +86659,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #829:
-                                
+
 Name: light.r3m
 hz_float: 1.513770341873169
 short_hz1: 0
@@ -86714,7 +86714,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #830:
-                                
+
 Name: light.r3m
 hz_float: 1.513770341873169
 short_hz1: 0
@@ -86769,7 +86769,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #831:
-                                
+
 Name: light.r3m
 hz_float: 1.513778567314148
 short_hz1: 0
@@ -86824,7 +86824,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #832:
-                                
+
 Name: light.r3m
 hz_float: 1.5137736797332764
 short_hz1: 0
@@ -86879,7 +86879,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #833:
-                                
+
 Name: light.r3m
 hz_float: 1.513770341873169
 short_hz1: 0
@@ -86934,7 +86934,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #834:
-                                
+
 Name: light.r3m
 hz_float: 1.513770341873169
 short_hz1: 0
@@ -86989,7 +86989,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #835:
-                                
+
 Name: light.r3m
 hz_float: 1.513770341873169
 short_hz1: 0
@@ -87044,7 +87044,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #836:
-                                
+
 Name: light.r3m
 hz_float: 1.5137766599655151
 short_hz1: 0
@@ -87099,7 +87099,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #837:
-                                
+
 Name: light.r3m
 hz_float: -0.732360303401947
 short_hz1: 0
@@ -87154,7 +87154,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #838:
-                                
+
 Name: light.r3m
 hz_float: -0.7323650121688843
 short_hz1: 0
@@ -87209,7 +87209,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #839:
-                                
+
 Name: light.r3m
 hz_float: -0.7323650121688843
 short_hz1: 0
@@ -87264,7 +87264,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #840:
-                                
+
 Name: light.r3m
 hz_float: -0.7323650121688843
 short_hz1: 0
@@ -87319,7 +87319,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #841:
-                                
+
 Name: light.r3m
 hz_float: -0.7323650121688843
 short_hz1: 0
@@ -87374,7 +87374,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #842:
-                                
+
 Name: light.r3m
 hz_float: -0.7323650121688843
 short_hz1: 0
@@ -87429,7 +87429,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #843:
-                                
+
 Name: light.r3m
 hz_float: -0.7323673963546753
 short_hz1: 0
@@ -87484,7 +87484,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #844:
-                                
+
 Name: light.r3m
 hz_float: -0.7323631644248962
 short_hz1: 0
@@ -87539,7 +87539,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #845:
-                                
+
 Name: light.r3m
 hz_float: -0.7323650121688843
 short_hz1: 0
@@ -87594,7 +87594,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #846:
-                                
+
 Name: light.r3m
 hz_float: -0.7323650121688843
 short_hz1: 0
@@ -87649,7 +87649,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #847:
-                                
+
 Name: light.r3m
 hz_float: -0.7323650121688843
 short_hz1: 0
@@ -87704,7 +87704,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #848:
-                                
+
 Name: light.r3m
 hz_float: -0.7323659062385559
 short_hz1: 0
@@ -87759,7 +87759,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #849:
-                                
+
 Name: light.r3m
 hz_float: -1.4568734169006348
 short_hz1: 0
@@ -87814,7 +87814,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #850:
-                                
+
 Name: light.r3m
 hz_float: -1.4568783044815063
 short_hz1: 0
@@ -87869,7 +87869,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #851:
-                                
+
 Name: light.r3m
 hz_float: -1.4568783044815063
 short_hz1: 0
@@ -87924,7 +87924,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #852:
-                                
+
 Name: light.r3m
 hz_float: -1.4568783044815063
 short_hz1: 0
@@ -87979,7 +87979,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #853:
-                                
+
 Name: light.r3m
 hz_float: -1.4568783044815063
 short_hz1: 0
@@ -88034,7 +88034,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #854:
-                                
+
 Name: light.r3m
 hz_float: -1.4568783044815063
 short_hz1: 0
@@ -88089,7 +88089,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #855:
-                                
+
 Name: light.r3m
 hz_float: -1.456889271736145
 short_hz1: 0
@@ -88144,7 +88144,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #856:
-                                
+
 Name: light.r3m
 hz_float: -1.4568830728530884
 short_hz1: 0
@@ -88199,7 +88199,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #857:
-                                
+
 Name: light.r3m
 hz_float: -1.4568783044815063
 short_hz1: 0
@@ -88254,7 +88254,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #858:
-                                
+
 Name: light.r3m
 hz_float: -1.4568783044815063
 short_hz1: 0
@@ -88309,7 +88309,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #859:
-                                
+
 Name: light.r3m
 hz_float: -1.4568783044815063
 short_hz1: 0
@@ -88364,7 +88364,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #860:
-                                
+
 Name: light.r3m
 hz_float: -1.456883192062378
 short_hz1: 0
@@ -88419,7 +88419,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #861:
-                                
+
 Name: light.r3m
 hz_float: -1.5155831575393677
 short_hz1: 0
@@ -88474,7 +88474,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #862:
-                                
+
 Name: light.r3m
 hz_float: -1.5155775547027588
 short_hz1: 0
@@ -88529,7 +88529,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #863:
-                                
+
 Name: light.r3m
 hz_float: -1.5155723094940186
 short_hz1: 0
@@ -88584,7 +88584,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #864:
-                                
+
 Name: light.r3m
 hz_float: -1.5155723094940186
 short_hz1: 0
@@ -88639,7 +88639,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #865:
-                                
+
 Name: light.r3m
 hz_float: -1.5155723094940186
 short_hz1: 0
@@ -88694,7 +88694,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #866:
-                                
+
 Name: light.r3m
 hz_float: -1.5155768394470215
 short_hz1: 0
@@ -88749,7 +88749,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #867:
-                                
+
 Name: light.r3m
 hz_float: -1.515568733215332
 short_hz1: 0
@@ -88804,7 +88804,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #868:
-                                
+
 Name: light.r3m
 hz_float: -1.5155723094940186
 short_hz1: 0
@@ -88859,7 +88859,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #869:
-                                
+
 Name: light.r3m
 hz_float: -1.5155723094940186
 short_hz1: 0
@@ -88914,7 +88914,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #870:
-                                
+
 Name: light.r3m
 hz_float: -1.5155723094940186
 short_hz1: 0
@@ -88969,7 +88969,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #871:
-                                
+
 Name: light.r3m
 hz_float: -1.5155723094940186
 short_hz1: 0
@@ -89024,7 +89024,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #872:
-                                
+
 Name: light.r3m
 hz_float: -1.5155723094940186
 short_hz1: 0
@@ -89079,7 +89079,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #873:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -89134,7 +89134,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #874:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -89189,7 +89189,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #875:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -89244,7 +89244,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #876:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -89299,7 +89299,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #877:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -89354,7 +89354,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #878:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -89409,7 +89409,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #879:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -89464,7 +89464,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #880:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -89519,7 +89519,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #881:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -89574,7 +89574,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #882:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -89629,7 +89629,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #883:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -89684,7 +89684,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #884:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -89739,7 +89739,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #885:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -89794,7 +89794,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #886:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -89849,7 +89849,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #887:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -89904,7 +89904,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #888:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -89959,7 +89959,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #889:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -90014,7 +90014,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #890:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -90069,7 +90069,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #891:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -90124,7 +90124,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #892:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -90179,7 +90179,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #893:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -90234,7 +90234,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #894:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -90289,7 +90289,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #895:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -90344,7 +90344,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #896:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -90399,7 +90399,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #897:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -90454,7 +90454,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #898:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -90509,7 +90509,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #899:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -90564,7 +90564,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #900:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -90619,7 +90619,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #901:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -90674,7 +90674,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #902:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -90729,7 +90729,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #903:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -90784,7 +90784,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #904:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -90839,7 +90839,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #905:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -90894,7 +90894,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #906:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -90949,7 +90949,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #907:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -91004,7 +91004,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #908:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -91059,7 +91059,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #909:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -91114,7 +91114,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #910:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -91169,7 +91169,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #911:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -91224,7 +91224,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #912:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -91279,7 +91279,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #913:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -91334,7 +91334,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #914:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -91389,7 +91389,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #915:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -91444,7 +91444,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #916:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -91499,7 +91499,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #917:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -91554,7 +91554,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #918:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -91609,7 +91609,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #919:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -91664,7 +91664,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #920:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -91719,7 +91719,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #921:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -91774,7 +91774,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #922:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -91829,7 +91829,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #923:
-                                
+
 Name: 0210.reb
 hz_float: 0.8643134832382202
 short_hz1: 17318
@@ -91884,7 +91884,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #924:
-                                
+
 Name: 0210.reb
 hz_float: 0.849742591381073
 short_hz1: -30533
@@ -91939,7 +91939,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #925:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -91994,7 +91994,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #926:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -92049,7 +92049,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #927:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -92104,7 +92104,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #928:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -92159,7 +92159,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #929:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -92214,7 +92214,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #930:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -92269,7 +92269,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #931:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -92324,7 +92324,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #932:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -92379,7 +92379,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #933:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -92434,7 +92434,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #934:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -92489,7 +92489,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #935:
-                                
+
 Name: light.r3m
 hz_float: -0.38629117608070374
 short_hz1: 0
@@ -92544,7 +92544,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #936:
-                                
+
 Name: light.r3m
 hz_float: -0.38629117608070374
 short_hz1: 0
@@ -92599,7 +92599,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #937:
-                                
+
 Name: light.r3m
 hz_float: -0.38629117608070374
 short_hz1: 0
@@ -92654,7 +92654,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #938:
-                                
+
 Name: light.r3m
 hz_float: -0.38629117608070374
 short_hz1: 0
@@ -92709,7 +92709,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #939:
-                                
+
 Name: light.r3m
 hz_float: -0.38629117608070374
 short_hz1: 0
@@ -92764,7 +92764,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #940:
-                                
+
 Name: light.r3m
 hz_float: -0.38629117608070374
 short_hz1: 0
@@ -92819,7 +92819,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #941:
-                                
+
 Name: light.r3m
 hz_float: 1.5156651735305786
 short_hz1: 0
@@ -92874,7 +92874,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #942:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -92929,7 +92929,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #943:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -92984,7 +92984,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #944:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -93039,7 +93039,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #945:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -93094,7 +93094,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #946:
-                                
+
 Name: light.r3m
 hz_float: -0.38629117608070374
 short_hz1: 0
@@ -93149,7 +93149,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #947:
-                                
+
 Name: light.r3m
 hz_float: -0.38629117608070374
 short_hz1: 0
@@ -93204,7 +93204,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #948:
-                                
+
 Name: light.r3m
 hz_float: -0.38629117608070374
 short_hz1: 0
@@ -93259,7 +93259,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #949:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -93314,7 +93314,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #950:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -93369,7 +93369,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #951:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -93424,7 +93424,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #952:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -93479,7 +93479,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #953:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -93534,7 +93534,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #954:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -93589,7 +93589,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #955:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -93644,7 +93644,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #956:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -93699,7 +93699,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #957:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -93754,7 +93754,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #958:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -93809,7 +93809,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #959:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -93864,7 +93864,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #960:
-                                
+
 Name: light.r3m
 hz_float: 1.5008811950683594
 short_hz1: 0
@@ -93919,7 +93919,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #961:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -93974,7 +93974,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #962:
-                                
+
 Name: light.r3m
 hz_float: 0.4655918478965759
 short_hz1: 0
@@ -94029,7 +94029,7 @@ yet_more_hz_value_16: 0
 ⭐️
 
 Effect #963:
-                                
+
 Name: d6_Undeadcave_5f_alpha_wall.r3m
 hz_float: 1.0
 short_hz1: 0
