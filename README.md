@@ -22,7 +22,7 @@
 <ul>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DEFFECTS%20FULL%3D%3D--"><strong>--==EFFECTS FULL==--</strong></a>: Коллекция всех эффектов из игры.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--"><strong>--==MONSTER ITEM ARMOR MODELS FULL==--</strong></a>: Полный набор моделей брони и предметов из игры, а так-же все модели монстров.</li>
-    <li><a href="пока нет ссылки"><strong>[48x48] IMAGE TOOL</strong></a>: Найти и обновить 48x48 картинку предмета или скилла.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5B48x48%5D%20IMAGE%20TOOL"><strong>[48x48] IMAGE TOOL</strong></a>: Найти и обновить 48x48 картинку предмета или скилла.</li>
 	<li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5B48x48%5D%20MONSTER%20PICTURES"><strong>[48x48] MONSTER PICTURES</strong></a>: Картинки монстров размером 48x48.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5B48x48%5D%20PNG%20ITEMS%20AND%20MONSTERS%20PICS"><strong>[48x48] PNG ITEMS AND MONSTERS PICS</strong></a>: PNG изображения предметов и монстров размером 48x48.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5B48x48%5D%20WEBP%20ITEMS%20AND%20MONSTERS%20PICS"><strong>[48x48] WEBP ITEMS AND MONSTERS PICS</strong></a>: WEBP изображения предметов и монстров размером 48x48.</li>
