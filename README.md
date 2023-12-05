@@ -26,7 +26,8 @@
 	<li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5B48x48%5D%20MONSTER%20PICTURES"><strong>[48x48] MONSTER PICTURES</strong></a>: Картинки монстров размером 48x48.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5B48x48%5D%20PNG%20ITEMS%20AND%20MONSTERS%20PICS"><strong>[48x48] PNG ITEMS AND MONSTERS PICS</strong></a>: PNG изображения предметов и монстров размером 48x48.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5B48x48%5D%20WEBP%20ITEMS%20AND%20MONSTERS%20PICS"><strong>[48x48] WEBP ITEMS AND MONSTERS PICS</strong></a>: WEBP изображения предметов и монстров размером 48x48.</li>
-    <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BBY%20MYSELF%5D%20ITEMS"><strong>[BY MYSELF] ITEMS</strong></a>: Предметы, созданные автором репозитория.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BETC%5D"><strong>[ETC]</strong></a>: Разные полезности.</li>
+	<li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BBY%20MYSELF%5D%20ITEMS"><strong>[BY MYSELF] ITEMS</strong></a>: Предметы, созданные автором репозитория.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BBY%20MYSELF%5D%20ITEMS"><strong>[BY MYSELF] MONSTERS EFFECTS</strong></a>: Эффекты для монстров, созданные автором.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BBY%20MYSELF%5D%20NPC"><strong>[BY MYSELF] NPC</strong></a>: NPC, созданные автором.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BBY%20MYSELF%5D%20Доспехи%20(Белый%20%26%20Черный%20Демоджар)"><strong>[BY MYSELF] Доспехи (Белый & Черный Демоджар)</strong></a>: Доспехи (Белый и Черный Демоджар).</li>
