@@ -1,5 +1,4 @@
-<h1 style="text-align:center"><strong>MAPS</strong><br />
-&nbsp;</h1>
+<h1 style="text-align:center"><strong>MAPS</strong><br /></h1>
 
 <p style="text-align:center">Разбор карт R2 Online</p>
 
