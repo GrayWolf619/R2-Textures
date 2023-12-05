@@ -4,5 +4,5 @@
 <p style="text-align:center">Разбор карт R2 Online</p>
 
 <p style="text-align:center">Для точного сравнения с реальной картой, необходимо отразить!</p>
-![%5BCLIENT%5D%20color.png](%5BCLIENT%5D/%5BCLIENT%5D%20color.png)
+![map.png](map.png)
 <p>&nbsp;</p>
