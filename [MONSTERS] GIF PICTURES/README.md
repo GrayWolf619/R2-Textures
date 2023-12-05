@@ -1,5 +1,4 @@
-<h1 style="text-align:center">GIF-ки монстров</h1>
+# GIF-ки монстров
+#### GIF Монстров, успешно украденные с сайта Хасана :)
 
-<p style="text-align:center">GIF Монстров, успешно украденные с сайта Хасана :)</p>
-
-<p>&nbsp;</p>
+![403_IDLE.gif](403_IDLE.gif)
