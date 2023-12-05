@@ -1,4 +1,4 @@
-![logo.png](vk.com/r2genius)
+![vk.com/r2genius](logo.png)
 
 # NEW ITEMS
 
