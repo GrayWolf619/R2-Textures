@@ -1,3 +1,10 @@
+<ul>
+	<li><a href="#[РУССКИЙ]">Русский</a></li>
+	<li><a href="#[ENGLISH]">English</a></li>
+</ul>
+
+
+
 <h1>[РУССКИЙ]</h1>
 <h1>Проект: Модели, текстуры и др. всех NPC и Монстров из R2 Online Korea Official 2023 от 6.6.2023</h1>
 
