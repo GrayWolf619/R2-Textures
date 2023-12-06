@@ -1,6 +1,6 @@
 # Список всех монстров с картинками
 ### Я приложил усилия, чтобы загрузить изображения для всех монстров, но возможно, что не все из них были успешно загружены. Для более точного поиска пожалуйста, выполните поиск по MID во всех подпапках внутри данной директории:
-### ![[KOREA OFF 2023] Модели монстров](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2)
+### [[KOREA OFF 2023] Модели монстров](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2)
 
 ## Название папки: [[33]Гарпия](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/[6.6.2023]%20Модели%20монстров%20I/[33]Гарпия/)
 - Название файла: m00042.png
