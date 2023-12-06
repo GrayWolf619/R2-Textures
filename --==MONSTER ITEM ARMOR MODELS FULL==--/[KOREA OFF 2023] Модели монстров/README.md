@@ -1,11 +1,11 @@
 <ul>
-	<li><a href="#[РУССКИЙ]">Русский</a></li>
-	<li><a href="#[ENGLISH]">English</a></li>
+	<li><a href="#[РУССКИЙ]">🇷🇺</a></li>
+	<li><a href="#[ENGLISH]">🇺🇸</a></li>
 </ul>
 
 
 
-<h2>[РУССКИЙ]</h2>
+<h2 id="RUSSIAN">[РУССКИЙ]</h2>
 <h1>Проект: Модели, текстуры и др. всех NPC и Монстров из R2 Online Korea Official 2023 от 6.6.2023</h1>
 
 <p>Этот репозиторий содержит набор файлов моделей, текстур, звуков и эффектов для NPC и монстров для R2 Online.</p>
@@ -43,8 +43,11 @@
 <p><em>Скриншоты практически под всех монстров</em></p>
 
 <p>𝓫𝔂 𝓥𝓲𝓬𝓽𝓸𝓻 𝓟𝓪𝓿𝓵𝓸𝓿</p>
+
+
 <hr />
-<h2>[ENGLISH]</h2>
+
+<h2 id="ENGLISH">[ENGLISH]</h2>
 <h1>Project: Models, Textures, and More of All NPCs and Monsters from R2 Online Korea Official 2023 as of June 6, 2023</h1>
 
 <p>This repository contains a set of files for models, textures, sounds, and effects for NPCs and monsters for R2 Online.</p>
