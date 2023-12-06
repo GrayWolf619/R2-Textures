@@ -188,6 +188,26 @@
 - Просмотр файла:
 # ![i100003.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[143]%20+9%20Большой%20щит/i100003.png)
 
+## Предмет: [[144] +6 Кинжал](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[144]%20+6%20Кинжал/)
+- Название файла: I002001.png
+- Просмотр файла:
+# ![I002001.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[144]%20+6%20Кинжал/I002001.png)
+
+## Предмет: [[145] +7 Кинжал](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[145]%20+7%20Кинжал/)
+- Название файла: I002001.png
+- Просмотр файла:
+# ![I002001.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[145]%20+7%20Кинжал/I002001.png)
+
+## Предмет: [[146] +8 Кинжал](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[146]%20+8%20Кинжал/)
+- Название файла: I002001.png
+- Просмотр файла:
+# ![I002001.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[146]%20+8%20Кинжал/I002001.png)
+
+## Предмет: [[147] +9 Кинжал](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[147]%20+9%20Кинжал/)
+- Название файла: I002001.png
+- Просмотр файла:
+# ![I002001.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[147]%20+9%20Кинжал/I002001.png)
+
 ## Предмет: [[148] Орочий кинжал](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[148]%20Орочий%20кинжал/)
 - Название файла: i002006.png
 - Просмотр файла:
@@ -482,6 +502,56 @@
 - Название файла: i005000.png
 - Просмотр файла:
 # ![i005000.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[311]%20+9%20Парные%20мечи/i005000.png)
+
+## Предмет: [[312] +0 Боевой молот](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[312]%20+0%20Боевой%20молот/)
+- Название файла: I007002.png
+- Просмотр файла:
+# ![I007002.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[312]%20+0%20Боевой%20молот/I007002.png)
+
+## Предмет: [[313] +1 Боевой молот](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[313]%20+1%20Боевой%20молот/)
+- Название файла: I007002.png
+- Просмотр файла:
+# ![I007002.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[313]%20+1%20Боевой%20молот/I007002.png)
+
+## Предмет: [[314] +2 Боевой молот](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[314]%20+2%20Боевой%20молот/)
+- Название файла: I007002.png
+- Просмотр файла:
+# ![I007002.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[314]%20+2%20Боевой%20молот/I007002.png)
+
+## Предмет: [[315] +3 Боевой молот](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[315]%20+3%20Боевой%20молот/)
+- Название файла: I007002.png
+- Просмотр файла:
+# ![I007002.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[315]%20+3%20Боевой%20молот/I007002.png)
+
+## Предмет: [[316] +4 Боевой молот](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[316]%20+4%20Боевой%20молот/)
+- Название файла: I007002.png
+- Просмотр файла:
+# ![I007002.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[316]%20+4%20Боевой%20молот/I007002.png)
+
+## Предмет: [[317] +5 Боевой молот](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[317]%20+5%20Боевой%20молот/)
+- Название файла: I007002.png
+- Просмотр файла:
+# ![I007002.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[317]%20+5%20Боевой%20молот/I007002.png)
+
+## Предмет: [[318] +6 Боевой молот](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[318]%20+6%20Боевой%20молот/)
+- Название файла: I007002.png
+- Просмотр файла:
+# ![I007002.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[318]%20+6%20Боевой%20молот/I007002.png)
+
+## Предмет: [[319] +7 Боевой молот](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[319]%20+7%20Боевой%20молот/)
+- Название файла: I007002.png
+- Просмотр файла:
+# ![I007002.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[319]%20+7%20Боевой%20молот/I007002.png)
+
+## Предмет: [[320] +8 Боевой молот](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[320]%20+8%20Боевой%20молот/)
+- Название файла: I007002.png
+- Просмотр файла:
+# ![I007002.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[320]%20+8%20Боевой%20молот/I007002.png)
+
+## Предмет: [[321] +9 Боевой молот](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[321]%20+9%20Боевой%20молот/)
+- Название файла: I007002.png
+- Просмотр файла:
+# ![I007002.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[321]%20+9%20Боевой%20молот/I007002.png)
 
 ## Предмет: [[322] Орочий боевой топор](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[322]%20Орочий%20боевой%20топор/)
 - Название файла: i007001.png
@@ -3683,6 +3753,11 @@
 - Просмотр файла:
 # ![i003016.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[2575]%20Огромное%20печенье/i003016.png)
 
+## Предмет: [[2615] +0 Орб кочевника](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[2615]%20+0%20Орб%20кочевника/)
+- Название файла: i011500.png
+- Просмотр файла:
+# ![i011500.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[2615]%20+0%20Орб%20кочевника/i011500.png)
+
 ## Предмет: [[2804] [xxx] +7 Небожители](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20II/[2804]%20[xxx]%20+7%20Небожители/)
 - Название файла: i005001.png
 - Просмотр файла:
@@ -4527,6 +4602,26 @@
 - Название файла: i009005.png
 - Просмотр файла:
 # ![i009005.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20II/[3661]%20+13%20Дамасская%20алебарда/i009005.png)
+
+## Предмет: [[3662] +10 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20II/[3662]%20+10%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20II/[3662]%20+10%20Эльфийский%20меч/i003004.png)
+
+## Предмет: [[3663] +11 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20II/[3663]%20+11%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20II/[3663]%20+11%20Эльфийский%20меч/i003004.png)
+
+## Предмет: [[3664] +12 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20II/[3664]%20+12%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20II/[3664]%20+12%20Эльфийский%20меч/i003004.png)
+
+## Предмет: [[3665] +13 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20II/[3665]%20+13%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20II/[3665]%20+13%20Эльфийский%20меч/i003004.png)
 
 ## Предмет: [[3666] +10 Кровавый меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20II/[3666]%20+10%20Кровавый%20меч/)
 - Название файла: i002008.png
@@ -8233,10 +8328,20 @@
 - Просмотр файла:
 # ![i100012.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[6518]%20+13%20Щит%20полнолуния/i100012.png)
 
+## Предмет: [[6708] Кинжал для тренировок](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[6708]%20Кинжал%20для%20тренировок/)
+- Название файла: I002001.png
+- Просмотр файла:
+# ![I002001.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[6708]%20Кинжал%20для%20тренировок/I002001.png)
+
 ## Предмет: [[6709] Катары для тренировок](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[6709]%20Катары%20для%20тренировок/)
 - Название файла: i005002.png
 - Просмотр файла:
 # ![i005002.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[6709]%20Катары%20для%20тренировок/i005002.png)
+
+## Предмет: [[6710] Нож для тренировок](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[6710]%20Нож%20для%20тренировок/)
+- Название файла: I002001.png
+- Просмотр файла:
+# ![I002001.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[6710]%20Нож%20для%20тренировок/I002001.png)
 
 ## Предмет: [[6790] Запечатанный меч правосудия](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[6790]%20Запечатанный%20меч%20правосудия/)
 - Название файла: i004007.png
@@ -9358,10 +9463,45 @@
 - Просмотр файла:
 # ![i011003.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8610]%20[Событие]%20+13%20Эльфийский%20лук/i011003.png)
 
+## Предмет: [[8612] [Событие] +5 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8612]%20[Событие]%20+5%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8612]%20[Событие]%20+5%20Эльфийский%20меч/i003004.png)
+
+## Предмет: [[8613] [Событие] +6 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8613]%20[Событие]%20+6%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8613]%20[Событие]%20+6%20Эльфийский%20меч/i003004.png)
+
+## Предмет: [[8614] [Событие] +7 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8614]%20[Событие]%20+7%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8614]%20[Событие]%20+7%20Эльфийский%20меч/i003004.png)
+
+## Предмет: [[8615] [Событие] +8 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8615]%20[Событие]%20+8%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8615]%20[Событие]%20+8%20Эльфийский%20меч/i003004.png)
+
+## Предмет: [[8616] [Событие] +9 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8616]%20[Событие]%20+9%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8616]%20[Событие]%20+9%20Эльфийский%20меч/i003004.png)
+
+## Предмет: [[8617] [Событие] +10 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8617]%20[Событие]%20+10%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8617]%20[Событие]%20+10%20Эльфийский%20меч/i003004.png)
+
 ## Предмет: [[8618] [Событие] +11 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8618]%20[Событие]%20+11%20Эльфийский%20меч/)
 - Название файла: i003004.png
 - Просмотр файла:
 # ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8618]%20[Событие]%20+11%20Эльфийский%20меч/i003004.png)
+
+## Предмет: [[8619] [Событие] +12 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8619]%20[Событие]%20+12%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8619]%20[Событие]%20+12%20Эльфийский%20меч/i003004.png)
 
 ## Предмет: [[8620] [Событие] +13 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[8620]%20[Событие]%20+13%20Эльфийский%20меч/)
 - Название файла: i003004.png
@@ -10212,6 +10352,31 @@
 - Название файла: i009002.png
 - Просмотр файла:
 # ![i009002.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[9897]%20+18%20Посох%20Аллатариэль/i009002.png)
+
+## Предмет: [[9898] +14 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[9898]%20+14%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[9898]%20+14%20Эльфийский%20меч/i003004.png)
+
+## Предмет: [[9899] +15 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[9899]%20+15%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[9899]%20+15%20Эльфийский%20меч/i003004.png)
+
+## Предмет: [[9900] +16 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[9900]%20+16%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[9900]%20+16%20Эльфийский%20меч/i003004.png)
+
+## Предмет: [[9901] +17 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[9901]%20+17%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[9901]%20+17%20Эльфийский%20меч/i003004.png)
+
+## Предмет: [[9902] +18 Эльфийский меч](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[9902]%20+18%20Эльфийский%20меч/)
+- Название файла: i003004.png
+- Просмотр файла:
+# ![i003004.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[9902]%20+18%20Эльфийский%20меч/i003004.png)
 
 ## Предмет: [[9903] +14 Крис](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20III/[9903]%20+14%20Крис/)
 - Название файла: i002015.png
@@ -11820,4 +11985,6 @@
 - Название файла: i011019.png
 - Просмотр файла:
 # ![i011019.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20IV/[119981]%20+18%20Изогнутый%20лук%20Темного%20стража/i011019.png)
+
+
 
