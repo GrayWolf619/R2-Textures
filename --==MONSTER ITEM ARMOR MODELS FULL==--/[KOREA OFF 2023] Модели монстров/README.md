@@ -1,6 +1,6 @@
 <ul>
-	<li><a href="#[РУССКИЙ]">🇷🇺</a></li>
-	<li><a href="#[ENGLISH]">🇺🇸</a></li>
+	<li><a href="#RUSSIAN">🇷🇺</a></li>
+	<li><a href="#ENGLISH">🇺🇸</a></li>
 </ul>
 
 
