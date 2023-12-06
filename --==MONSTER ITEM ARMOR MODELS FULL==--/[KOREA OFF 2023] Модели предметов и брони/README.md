@@ -51,7 +51,7 @@
 	<li>Орбы не имеют модели. Вместо этого, они состоят из эффекта и текстуры.</li>
 </ul>
 
-<h2>Полный список предметов находится в <a href="https://github.com/Aksel911/R2-Textures/blob/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2%20%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%D0%BC%D0%B8/ALL_MONSTERS.html">.HTML</a> файле.</h2>
+<h2>Полный список предметов находится в <a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Список%20предметов%20с%20картинками/ALL_ITEMS.html">.HTML</a> файле.</h2>
 <p>Скачайте .HTML файл и откройте его в браузере. Подождите пока загрузятся все картинки.</p>
 <p><em>Скриншоты практически под всех монстров</em></p>
 
