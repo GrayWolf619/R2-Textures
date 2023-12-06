@@ -8,6 +8,35 @@
 # _Рекомендую скачать ***.html*** файл и использовать его локально:_
 ## [[KOREA OFF 2023] .HTML Список предметов](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Список%20предметов%20с%20картинками/ALL_ITEMS.html)
 
+## Предмет: [[41] +0 Кинжал](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[41]%20+0%20Кинжал/)
+- Название файла: I002001.png
+- Просмотр файла:
+# ![I002001.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[41]%20+0%20Кинжал/I002001.png)
+
+## Предмет: [[42] +1 Кинжал](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[42]%20+1%20Кинжал/)
+- Название файла: I002001.png
+- Просмотр файла:
+# ![I002001.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[42]%20+1%20Кинжал/I002001.png)
+
+## Предмет: [[43] +2 Кинжал](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[43]%20+2%20Кинжал/)
+- Название файла: I002001.png
+- Просмотр файла:
+# ![I002001.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[43]%20+2%20Кинжал/I002001.png)
+
+## Предмет: [[44] +3 Кинжал](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[44]%20+3%20Кинжал/)
+- Название файла: I002001.png
+- Просмотр файла:
+# ![I002001.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[44]%20+3%20Кинжал/I002001.png)
+
+## Предмет: [[47] +4 Кинжал](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[47]%20+4%20Кинжал/)
+- Название файла: I002001.png
+- Просмотр файла:
+# ![I002001.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[47]%20+4%20Кинжал/I002001.png)
+
+## Предмет: [[48] +5 Кинжал](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[48]%20+5%20Кинжал/)
+- Название файла: I002001.png
+- Просмотр файла:
+# ![I002001.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[48]%20+5%20Кинжал/I002001.png)
 
 ## Предмет: [[101] +0 Круглый щит](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[101]%20+0%20Круглый%20щит/)
 - Название файла: i100001.png
