@@ -1,11 +1,11 @@
 # Список всех монстров с картинками
 ### _Я приложил усилия, чтобы загрузить изображения для всех монстров, но возможно, что не все из них были успешно загружены._
 ### _Для более точного поиска пожалуйста, выполните поиск нужного вам монстра по его MID во всех подпапках внутри данной директории:_
-### [[KOREA OFF 2023] Модели монстров](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2)
+## [[KOREA OFF 2023] Модели монстров](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2)
 
 ### _Из за лимита GitHub, к сожалению невозможно залить список 1-м файлом :(_
-### _Рекомендую скачать ***.html*** файл и использовать его локально:_
-### [[KOREA OFF 2023] .HTML Список монстров](https://github.com/Aksel911/R2-Textures/blob/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2%20%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%D0%BC%D0%B8/ALL_MONSTERS.html)
+# _Рекомендую скачать ***.html*** файл и использовать его локально:_
+## [[KOREA OFF 2023] .HTML Список монстров](https://github.com/Aksel911/R2-Textures/blob/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2%20%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%D0%BC%D0%B8/ALL_MONSTERS.html)
 
 
 ## Монстр: [[33]Гарпия](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/[6.6.2023]%20Модели%20монстров%20I/[33]Гарпия/)
