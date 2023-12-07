@@ -5,7 +5,7 @@
 
 
 
-<h2 id="RUSSIAN">[РУССКИЙ]</h2>
+<h2 id="RUSSIAN">[🇷🇺]</h2>
 
 <h1>⚔️Модели, текстуры и др. всех предметов и брони из R2 Online Korea Official 2023 от 6.6.2023</h1>
 
@@ -61,7 +61,7 @@
 
 <hr />
 
-<h2 id="ENGLISH">[ENGLISH]</h2>
+<h2 id="ENGLISH">[🇺🇸]</h2>
 
 <h1>⚔️Models, textures, etc. of all items and armor from R2 Online Korea Official 2023 from 6.6.2023</h1>
 
