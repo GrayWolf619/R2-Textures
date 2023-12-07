@@ -1,6 +1,6 @@
 <h1>R2-Textures / [ETC] / [GM TOOL] CHINESE</h1>
 
-<img src="https://raw.githubusercontent.com/Aksel911/R2-Textures/main/%5BETC%5D/%5BGM%20TOOL%5D%20CHINESE/preview.png"" />
+<h2><img src="https://raw.githubusercontent.com/Aksel911/R2-Textures/main/%5BETC%5D/%5BGM%20TOOL%5D%20CHINESE/preview.png"></h2>
 
 <h2>Описание</h2>
 
