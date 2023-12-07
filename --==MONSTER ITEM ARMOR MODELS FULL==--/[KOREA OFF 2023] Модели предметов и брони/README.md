@@ -7,7 +7,7 @@
 
 <h2 id="RUSSIAN">[РУССКИЙ]</h2>
 
-<h1>Проект: Модели, текстуры и др. всех предметов и брони из R2 Online Korea Official 2023 от 6.6.2023</h1>
+<h1>⚔️Модели, текстуры и др. всех предметов и брони из R2 Online Korea Official 2023 от 6.6.2023</h1>
 
 <p>Этот репозиторий содержит набор файлов моделей, текстур, звуков и эффектов всех предметов и брони из R2 Online. Модели организованы и разделены по папкам в соответствии с ID (IID) предмета или брони, с последовательностью от меньшего к большему. Всего в репозитории 3948 модели.</p>
 
@@ -63,7 +63,7 @@
 
 <h2 id="ENGLISH">[ENGLISH]</h2>
 
-<h1>Project: Models, textures, etc. of all items and armor from R2 Online Korea Official 2023 from 6.6.2023</h1>
+<h1>⚔️Models, textures, etc. of all items and armor from R2 Online Korea Official 2023 from 6.6.2023</h1>
 
 <p>This repository contains a set of model files, textures, sounds and effects for all items and armor from R2 Online. Models are organized and divided into folders according to the ID (IID) of the item or armor, from smallest to largest. There are a total of 3948 models in the repository.</p>
 

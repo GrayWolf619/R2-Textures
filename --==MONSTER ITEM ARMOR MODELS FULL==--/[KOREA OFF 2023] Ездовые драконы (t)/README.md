@@ -1,3 +1,9 @@
+<ul>
+	<li><a href="#RUSSIAN">🇷🇺</a></li>
+	<li><a href="#ENGLISH">🇺🇸</a></li>
+</ul>
+
+<h2 id="RUSSIAN">[РУССКИЙ]</h2>
 <h1>🐉Модели Ездовых Драконов</h1>
 <h3>На странице есть 38 папок ALevel, каждая из которых содержит модель, анимацию, текстуру, звук и эффект одного из ездовых драконов.
 
@@ -15,6 +21,24 @@
 <p>&nbsp;</p>
 
 <p>𝓫𝔂 𝓥𝓲𝓬𝓽𝓸𝓻 𝓟𝓪𝓿𝓵𝓸𝓿</p>
+
+
+<hr />
+
+<h2 id="ENGLISH">[ENGLISH]</h2>
+<h1>🐉Dragon Riding Models</h1>
+<h3>There are 38 ALevel folders on the page, each of which contains the model, animation, texture, sound and effect of one of the dragon mounts.
+
+These dragons are taken from the Korean official server of the game R2 Online dated 6.6.2023.</h3>
+
+
+<h3>Separated into ALevel folders.</h3>
+
+<ul>
+<li>Inside each folder is a <strong>README.md</strong>, which contains the IID and IName of the item that relates to the dragon.</li>
+<li>AType of dragon mounts = <strong>46</strong></li>
+<li>Includes model, animation, texture, sound, effect (completely everything)</li>
+</ul>
 
 # Предпросмотр драконов:
 
