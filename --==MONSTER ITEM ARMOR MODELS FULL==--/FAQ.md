@@ -1,4 +1,4 @@
-<h2>В character/model.rfs:</h2>
+<h2>Начало названия файла в character/model.rfs:</h2>
 
 <table>
 	<tbody>
@@ -52,3 +52,61 @@
 		</tr>
 	</tbody>
 </table>
+
+<hr />
+<h2>The beginning of the file name in character/model.rfs:</h2>
+
+<table>
+	<tbody>
+		<tr>
+			<th><strong>Code</strong></th>
+			<th><strong>Description</strong></th>
+		</tr>
+		<tr>
+			<td>i</td>
+			<td>New items (Demojar, Meteos)</td>
+		</tr>
+		<tr>
+			<td>c</td>
+			<td>Birds</td>
+		</tr>
+		<tr>
+			<td>d12</td>
+			<td>Boxes ???</td>
+		</tr>
+		<tr>
+			<td>d13</td>
+			<td>Some other boxes ???</td>
+		</tr>
+		<tr>
+			<td>dropitem</td>
+			<td>Drop items</td>
+		</tr>
+		<tr>
+			<td>itee</td>
+			<td>Some new items (manuscript)</td>
+		</tr>
+		<tr>
+			<td>item</td>
+			<td>Initial weapons, shields</td>
+		</tr>
+		<tr>
+			<td>m</td>
+			<td>Monsters, morphs</td>
+		</tr>
+		<tr>
+			<td>o</td>
+			<td>Stones, walls</td>
+		</tr>
+		<tr>
+			<td>p</td>
+			<td>Character, armor</td>
+		</tr>
+		<tr>
+			<td>t</td>
+			<td>Riding dragons</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><a href="https://vk.com/akselrus">𝓫𝔂 𝓥𝓲𝓬𝓽𝓸𝓻 𝓟𝓪𝓿𝓵𝓸𝓿</a></p>
