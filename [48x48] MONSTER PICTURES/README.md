@@ -4,17 +4,10 @@
 
 <p>Вы можете скачать весь набор изображений в виде <a href="https://github.com/Aksel911/R2-Textures/blob/main/%5B48x48%5D%20MONSTER%20PICTURES/%5B48x48%5D%20MONSTER%20PICTURES%20FULL.7z">.zip архива</a>.</p>
 
-<p>Вот несколько примеров из этой коллекции:</p>
+<p>Коллаж всех изображений:</p>
 
-![Image 1](https://github.com/Aksel911/R2-Textures/blob/main/%5B48x48%5D%20MONSTER%20PICTURES/1339.jpg)
+![collage.png](collage.png)
 
-![Image 2](https://github.com/Aksel911/R2-Textures/blob/main/%5B48x48%5D%20MONSTER%20PICTURES/1639.jpg)
-
-![Image 3](https://github.com/Aksel911/R2-Textures/blob/main/%5B48x48%5D%20MONSTER%20PICTURES/129.jpg)
-
-![Image 4](https://github.com/Aksel911/R2-Textures/blob/main/%5B48x48%5D%20MONSTER%20PICTURES/1005.jpg)
-
-![Image 5](https://github.com/Aksel911/R2-Textures/blob/main/%5B48x48%5D%20MONSTER%20PICTURES/1337.jpg)
 
 
 
