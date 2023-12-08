@@ -7,6 +7,7 @@
 ### _Из за лимита GitHub, к сожалению невозможно залить список 1-м файлом :(_
 # _Рекомендую скачать ***.html*** файл и использовать его локально:_
 ## [[KOREA OFF 2023] .HTML Список предметов](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Список%20предметов%20с%20картинками/ALL_ITEMS.html)
+## [[KOREA OFF 2023] .HTML Список брони](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Список%20предметов%20с%20картинками/ALL_ARMOR.html)
 
 ## Предмет: [[41] +0 Кинжал](https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20I/[41]%20+0%20Кинжал/)
 - Название файла: I002001.png
