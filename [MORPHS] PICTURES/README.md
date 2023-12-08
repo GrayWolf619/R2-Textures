@@ -6,7 +6,7 @@
 
 <p>Коллаж всех изображений:</p>
 
-![collage.png](https://github.com/Aksel911/R2-Textures/blob/main/%5BMORPHS%5D%20PICTURES/collage.png)
-
+![collage.png](collage.png)
+![Ассасин-Мужчина.jpg])Ассасин-Мужчина.jpg)
 
 <p>Приятного использования!</p>
