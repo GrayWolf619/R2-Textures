@@ -51,7 +51,8 @@
 	<li>Орбы не имеют модели. Вместо этого, они состоят из эффекта и текстуры.</li>
 </ul>
 
-<h2>Полный список предметов находится в <a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Список%20предметов%20с%20картинками/ALL_ITEMS.html">.HTML</a> файле.</h2>
+<h2>🗡️Полный список предметов находится в <a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Список%20предметов%20с%20картинками/ALL_ITEMS.html">.HTML</a> файле.</h2>
+<h2>🛡️Полный список брони находится в <a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Список%20предметов%20с%20картинками/ALL_ARMOR.html">.HTML</a> файле.</h2>
 <p>Скачайте .HTML файл и откройте его в браузере. Подождите пока загрузятся все картинки.</p>
 <p><em>Скриншоты практически под всех монстров</em></p>
 
@@ -107,7 +108,8 @@
 <li>Orbs do not have a model. Instead, they consist of effect and texture.</li>
 </ul>
 
-<h2>The full list of items is in <a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Список%20предметов%20с%20картинками/ALL_ITEMS.html">.HTML</a> file.</h2>
+<h2>🗡️The full list of items is in <a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Список%20предметов%20с%20картинками/ALL_ITEMS.html">.HTML</a> file.</h2>
+<h2>🛡️The full list of armor is in <a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Список%20предметов%20с%20картинками/ALL_ARMOR.html">.HTML</a> file.</h2>
 <p>Download the .HTML file and open it in your browser. Wait until all the pictures are loaded.</p>
 <p><em>Screenshots for almost all monsters</em></p>
 
