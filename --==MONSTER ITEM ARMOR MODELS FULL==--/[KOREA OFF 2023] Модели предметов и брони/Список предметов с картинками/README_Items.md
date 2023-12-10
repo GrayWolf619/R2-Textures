@@ -11976,5 +11976,4 @@
 - Просмотр файла:
 # ![i011019.png](https://raw.githubusercontent.com/Aksel911/R2-Textures/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Модели%20предметов%20и%20брони%20IV/[119981]%20+18%20Изогнутый%20лук%20Темного%20стража/i011019.png)
 
-
-
+***by Victor Pavlov***
