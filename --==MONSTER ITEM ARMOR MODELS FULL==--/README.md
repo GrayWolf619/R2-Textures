@@ -35,7 +35,7 @@
 
 <p><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Список%20предметов%20с%20картинками"><u>🖼️Просмотр предметов вместе с картинками</u></a></p>
 
-<h2><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20DropItem%20модели"><u>Модели DropItem</u></a></h2>
+<h2><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20DropItem"><u>Модели DropItem</u></a></h2>
 
 <p>&nbsp;</p>
 
@@ -80,7 +80,7 @@
 
 <p><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Список%20предметов%20с%20картинками"><u>🖼️View items with images</u></a></p>
 
-<h2><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20DropItem%20модели"><u>DropItem Models</u></a></h2>
+<h2><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20DropItem"><u>DropItem Models</u></a></h2>
 
 <h2>How to Use:</h2>
 
