@@ -35,6 +35,10 @@
 
 <p><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Список%20предметов%20с%20картинками"><u>🖼️Просмотр предметов вместе с картинками</u></a></p>
 
+<h2><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20DropItem%20модели"><u>DropItem Модели</u></a></h2>
+
+<p>&nbsp;</p>
+
 <h2>Как использовать:</h2>
 
 <p>Для доступа к моделям и другим элементам, просто загрузите .zip архив и распакуйте его. Все файлы в архиве организованы в папках, которые имеют аналогичные названия, как и в клиенте игры. Пожалуйста, следуйте структуре каталога, чтобы найти необходимые вам модели и другие элементы.</p>
@@ -75,6 +79,8 @@
 <p>Additionally, <strong>3352 </strong>item and armor models from the Korean official server, with Info.dat from <u><strong>June 6, 2023</strong></u>, have been added.</p>
 
 <p><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20предметов%20и%20брони/Список%20предметов%20с%20картинками"><u>🖼️View items with images</u></a></p>
+
+<h2><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20DropItem%20модели"><u>DropItem M</u></a>odels</h2>
 
 <h2>How to Use:</h2>
 
