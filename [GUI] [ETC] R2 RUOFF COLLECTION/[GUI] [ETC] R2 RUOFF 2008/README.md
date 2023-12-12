@@ -1,6 +1,4 @@
-<h1 style="text-align:center">ETC + GUI R2 RUOFF 2008</h1>
-
-<p style="text-align:center">ETC + GUI от РуОФФ 2008-года</p>
+<h1 style="text-align:center">Выгрузка всех файолов от R2 RUOFF 2008 года</h1>
 
 
 <p style="text-align:center">Пароль от архивов:</p>
