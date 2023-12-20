@@ -55,12 +55,12 @@
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BMONSTERS%5D%20SOME%20MONSTERS%20(NOT%20A%20FULL%20PACK!)">[MONSTERS] SOME MONSTERS (NOT A FULL PACK!)</a>: Выборка монстров, не полный набор.</li>
 	<li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BMORPHS%5D%20MODEL%20%2B%20TEXTURE%20%2B%20TXT">[MORPHS] MODEL + TEXTURE + TXT</a>: Комбинированные модели, текстуры и текстовые файлы для морфов.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BMORPHS%5D%20PICTURES">[MORPHS] PICTURES</a>: Изображения морфов.</li>
-    <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BNEW%20ITEMS%5D/5%20New%20Weapons">[NEW ITEMS]/ 5 New Weapons</a>: Пять новых видов оружия.</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BNEW%20ITEMS%5D">[NEW ITEMS]</a>: Кастомные модели для R2 Online, созданные любителями.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BR2m%5D%20UI%20FULL">[R2m] UI FULL</a>: Полный набор пользовательского интерфейса R2m.</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BRBMEXP%5D%20MODEL%20CREATOR">[RBMEXP] MODEL CREATOR</a>: Инструмент для создания новых моделей.</li>
 	<li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BRMBEXP%202%5D%20MODEL%20CREATOR%20v2">[RBMEXP 2] MODEL CREATOR v2</a>: Инструмент для создания новых моделей (Вторая версия).</li>
     <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BRWT%5D%20RWeatherTimeTables">[RWT] RWeatherTimeTables</a>: Таблицы времени и погоды для R2.</li>
-    <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BVISUAL%5D%20NEW%20YEAR%20MODE%20(WINTER)">[VISUAL] NEW YEAR MODE (WINTER)</a>: Визуальный режим "Новый Год" (зима).</li>
+    <li><a href="https://github.com/Aksel911/R2-Textures/tree/main/%5BVISUAL%5D%20CLIENT%20VISUAL">[VISUAL] CLIENT VISUAL</a>: Визуальные эффекты клиента.</li>
 </ul>
 
 
