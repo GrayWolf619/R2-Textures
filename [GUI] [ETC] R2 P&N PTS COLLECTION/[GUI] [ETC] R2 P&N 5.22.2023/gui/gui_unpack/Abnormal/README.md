@@ -2,4 +2,6 @@
 ## Превью для collage_row_0.png:
 ![collage_row_0.png](collage_row_0.png)
 - Использованные файлы:
+- - ``` ABNORMAL00.DDS ```
+- - ``` ABNORMAL01.DDS ```
 - - ``` AbnormalEx00.dds ```

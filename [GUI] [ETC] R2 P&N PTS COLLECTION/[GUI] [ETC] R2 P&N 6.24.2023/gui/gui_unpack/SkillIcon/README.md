@@ -7,4 +7,8 @@
 - - ``` skillicon03.dds ```
 - - ``` skillicon04.dds ```
 - - ``` skillicon05.dds ```
+- - ``` SKILLICON06.DDS ```
+## Превью для collage_row_1.png:
+![collage_row_1.png](collage_row_1.png)
+- Использованные файлы:
 - - ``` SKILLICON07.dds ```

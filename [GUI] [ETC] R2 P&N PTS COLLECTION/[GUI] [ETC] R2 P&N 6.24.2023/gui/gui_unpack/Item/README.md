@@ -67,5 +67,15 @@
 - Использованные файлы:
 - - ``` item42.dds ```
 - - ``` item43.dds ```
+- - ``` ITEM50.DDS ```
+- - ``` ITEM58.DDS ```
+- - ``` ITEM62.DDS ```
+- - ``` ITEM76.DDS ```
+## Превью для collage_row_8.png:
+![collage_row_8.png](collage_row_8.png)
+- Использованные файлы:
+- - ``` ITEM79.DDS ```
 - - ``` item80.dds ```
+- - ``` ITEM82.DDS ```
+- - ``` ITEM98.DDS ```
 - - ``` item99.dds ```
