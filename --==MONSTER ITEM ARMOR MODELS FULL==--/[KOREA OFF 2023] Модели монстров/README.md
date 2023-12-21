@@ -66,7 +66,7 @@
 
 <p>Each folder contains <strong>1,000</strong> models, except for the last one, which contains the remaining <strong>408</strong> models.<br />
 <br />
-New models (<u><strong>after June 22, 2023</strong></u>) will be placed in folders: <a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/%5B6.22.2023%5D%20%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8">[6.22.2023] New Models</a> and <a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20монстров/%5B12.21.2023%5D%20Новые%20модели">[12.21.2023] Новые модели</a></p>
+New models (<u><strong>after June 22, 2023</strong></u>) will be placed in folders: <a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/%5B6.22.2023%5D%20%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8">[6.22.2023] New Models</a> and <a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20монстров/%5B12.21.2023%5D%20Новые%20модели">[12.21.2023] New Models</a></p>
 
 <h2>Archive Contents:</h2>
 
