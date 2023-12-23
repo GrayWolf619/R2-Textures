@@ -1,5 +1,4 @@
-<h1 style="text-align:center">UPSCALED UI FOR 1602 CLIENT</h1>
+# UPSCALED UI FOR 1602 CLIENT
 
-<p style="text-align:center">Мой личный gui, где абсолютно каждый dds файл был улучшен нейросетью</p>
+Мой старенький пользовательский интерфейс (**GUI**), где каждый файл **.dds** был улучшен до нового уровня с помощью нейросетей.
 
-<p>&nbsp;</p>

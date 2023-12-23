@@ -1,15 +1,10 @@
-<h1 style="text-align:center">ETC + GUI R2 CLASSIC</h1>
+# Коллекция ETC + GUI R2 CLASSIC
 
-<p style="text-align:center">ETC + GUI от R2 Classis, с GUI как у R2 Online 2009 года</p>
-
-<p>Ниже представлен сборник интерфейсов (GUI) и прочих элементов (ETC) с гочиного сервера R2 Online Classic, охватывающий различные периоды времени. 
-В наборе содержатся файлы с момента релиза сервера 11.24.2022 года, а так же 2.11.2023 года.</p>
+Ниже представлен сборник интерфейсов (GUI) и прочих элементов (ETC) с гочиного сервера R2 Online Classic *(который имеет  GUI как у R2 Online 2009 года)*, охватывающий различные периоды времени. 
 
 
-<p style="text-align:center">Пароль от архивов:</p>
+### Содержание: 
+- [Файлы 11.24.2022](%5BGUI%5D%20%5BETC%5D%20R2%20CLASSIC%2011.24.2022%20%28Release%29)
+- [Файлы 2.11.2023](%5BGUI%5D%20%5BETC%5D%20R2%20CLASSIC%202.11.2023)
 
-<blockquote>
-<p style="text-align:center">4a3408a275b0343719ae2ab7250a8cab0c03b2178a58f2de</p>
-</blockquote>
-
-<p>&nbsp;</p>
+**Пароль от архивов**: `4a3408a275b0343719ae2ab7250a8cab0c03b2178a58f2de`

@@ -1,7 +1,7 @@
 # Коллекция GUI + ETC от R2 Online Korea Official  
 
 ## Ниже представлен сборник интерфейсов (GUI) и прочих элементов (ETC) с официального корейского сервера R2 Online, охватывающий различные периоды времени. 
-### В наборе содержатся файлы от:
+### Содержание:
 - [2020 года](https://github.com/Aksel911/R2-Textures/tree/main/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%20COLLECTION/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%202020)
 - [2021 года (SPEED)](https://github.com/Aksel911/R2-Textures/tree/main/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%20COLLECTION/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20SPEED%20REBOOT%202021)
 - [6 июня 2023 года](https://github.com/Aksel911/R2-Textures/tree/main/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%20COLLECTION/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20SPEED%20REBOOT%202021)
