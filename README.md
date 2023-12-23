@@ -134,6 +134,7 @@
 <ul>
 	<li><a href="https://vk.com/@r2genius-kak-podlkuchit-bazu-dannyh-k-navicat" target="_new">Как подключить базу данных к Navicat</a></li>
 	<li><a href="https://vk.com/@-218801759-kak-sdelat-backup-bd" target="_new">Как сделать Backup БД</a></li>
+	<li><a href="https://vk.com/@-218801759-sql-zapros-prosmotr-koordinat-pechatei-teleporta" target="_new">SQL Запрос. Просмотр координат печатей телепорта</a></li>
 	<li><a href="https://vk.com/@-218801759-zapros-na-vydachu-podarkov" target="_new">SQL Запрос. Выдать подарок на аккаунт по нику</a></li>
 	<li><a href="https://vk.com/@-218801759-zapros-na-vaip-servera" target="_new">SQL Запрос на вайп сервера</a></li>
 	<li><a href="https://vk.com/@-218801759-zapros-dobavit-kraft" target="_new">SQL Запрос. Добавить Крафт (Проточка)</a></li>
