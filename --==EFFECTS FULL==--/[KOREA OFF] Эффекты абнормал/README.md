@@ -1,10 +1,10 @@
-<h1>Эффекты абнормал AType<br />
-&nbsp;</h1>
+# Эффекты абнормал AType
 
-<h3>Эффекты абнормал разбиты по папкам:</h3>
+### Эффекты абнормал разбиты по папкам:
 
-<h4><br />
-<br />
-В папке&nbsp;<strong>R2 KOREA OFF BEFORE (6.6.2023)</strong> находится&nbsp;<strong>235</strong> абнормал <strong>AType</strong>.</h4>
 
-<p>В папке&nbsp;<strong>R2 KOREA OFF AFTER (6.22.2023)</strong> (LAST UPDATE) находится&nbsp;<strong>268&nbsp;</strong>абнормал <strong>AType</strong>.</p>
+- В папке [R2 KOREA OFF (6.6.2023)](R2%20KOREA%20OFF%206.6.2023) находится **235** абнормал **AType**.
+
+- В папке [R2 KOREA OFF (6.22.2023)](R2%20KOREA%20OFF%206.22.2023) находится **268** абнормал **AType**.
+
+- В папке [R2 KOREA OFF (12.21.2023)](R2%20KOREA%20OFF%2012.21.2023) находится **271** абнормал **AType**.
