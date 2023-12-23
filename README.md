@@ -179,6 +179,7 @@
 	<li><a href="https://vk.com/@-218801759-novoe-oruzhie" target="_new">5 Новых моделей оружия</a></li>
 	<li><a href="https://vk.com/@-218801759-kak-dobavit-novyi-predmet-kartinku-i-effekt-k-nemu" target="_new">Как добавить новый предмет, картинку и эффект к нему</a></li>
 	<li><a href="https://vk.com/@-218801759-r2-textures-git" target="_new">R2 Textures Git</a></li>
+	<li><a href="https://vk.com/@-218801759-novye-modeli-iz-obnovleniya-r2loaded-part2" target="_new">Новые модели из обновления R2loaded Part2</a></li>
 </ul>
 
 <h4>🔨Работа с Клиентом и Сервером</h4>
@@ -246,6 +247,7 @@
 	<li><a href="https://vk.com/@-218801759-novye-koordinaty-ot-nikity-medvedeva" target="_new">Новые координаты от Никиты Медведева</a></li>
 	<li><a href="https://vk.com/@-218801759-koordinaty-lokacii-ot-nikity-medvedeva" target="_new">Координаты локаций от Никиты Медведева</a></li>
 	<li><a href="https://vk.com/@-218801759-fieldwexe-s-propatchennym-urovnem" target="_new">FieldW.exe с пропатченным уровнем</a></li>
+	<li><a href="https://vk.com/@-218801759-opisanie-obnovleniya-r2loaded-part2" target="_new">Описание обновления R2Loaded Part2</a></li>
 </ul>
 
 
