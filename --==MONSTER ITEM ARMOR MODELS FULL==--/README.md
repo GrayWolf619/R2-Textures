@@ -21,7 +21,7 @@
 
 <p>В этом разделе вы найдете <strong>3423 </strong>модели монстров, а также модели NPC. Каждая модель включает в себя необходимые текстуры, звуки и эффекты.</p>
 
-<p>Так-же были добавлены <strong>3408 </strong>моделей NPC и монстров от корейского оффициального сервера, с Info.dat от <u><strong>6.6.2023</strong></u> года.</p>
+<p>Так-же были добавлены <strong>3440 </strong>моделей NPC и монстров от корейского оффициального сервера.</p>
 
 <p><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20монстров/Список%20монстров%20с%20картинками"><u>🖼️Просмотр монстров вместе с картинками</u></a></p>
 
@@ -67,7 +67,7 @@
 
 <p>In this section, you will find <strong>3423 </strong>monster models as well as NPC models. Each model includes the necessary textures, sounds, and effects.</p>
 
-<p>Additionally, <strong>3408 </strong>NPC and monster models from the Korean official server, with Info.dat from <strong><u>June 6, 2023</u></strong>, have been added.</p>
+<p>Additionally, <strong>3440 </strong>NPC and monster models from the Korean official server.</p>
 
 <p><a href="https://github.com/Aksel911/R2-Textures/tree/main/--%3D%3DMONSTER%20ITEM%20ARMOR%20MODELS%20FULL%3D%3D--/%5BKOREA%20OFF%202023%5D%20Модели%20монстров/Список%20монстров%20с%20картинками"><u>🖼️View monsters with images</u></a></p>
 
