@@ -11,3 +11,11 @@
 ## [Оригинальные курсоры](Оригинальные%20курсоры):
 ### Превью:
 ![collage.png](Оригинальные%20курсоры/collage.png)
+
+## [FreeDay курсоры](FreeDay%20курсоры):
+### Превью:
+![collage.png](FreeDay%20курсоры/collage.png)
+
+## [Tanatos курсоры](Tanatos%20курсоры):
+### Превью:
+![collage.png](Tanatos%20курсоры/collage.png)

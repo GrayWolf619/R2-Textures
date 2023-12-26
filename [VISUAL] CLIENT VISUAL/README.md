@@ -15,13 +15,23 @@
 - - Превью:
 - - - ![collage.png](Cursor/Оригинальные%20курсоры/collage.png)
 
+- [FreeDay курсоры](Cursor/FreeDay%20курсоры)
+- - Превью:
+- - - ![collage.png](Cursor/FreeDay%20курсоры/collage.png)
+
+- [Tanatos курсоры](Cursor/Tanatos%20курсоры)
+- - Превью:
+- - - ![collage.png](Cursor/Tanatos%20курсоры/collage.png)
+
 ## 🎄Texture(WinterGrass):
 - [Texture(WinterGrass).rfs](Texture(WinterGrass).rfs)
 - - ![Grass.png](Grass.png)
 
 ## 🎉Оригинальная тема новогоднего оформления GUI из 2018 года:
+- [❄️Новогоднее оформление клиента 4Game](️Новогоднее%20оформление%20клиента%204Game)
 - [dxutcontrols.dds](GUI/dxutcontrols.dds)
 - - ![dxutcontrols.png](dxutcontrols.png)
+
 
 ## 🏞️Terrain:
 ### [Terrain (Зима)](Terrain%20(Зима))
@@ -35,6 +45,6 @@
 ### [RWeatherTimeTable_ЗимаАдминКлиент.rwt](RWT/RWeatherTimeTable_ЗимаАдминКлиент.rwt)
 - Снег на деревьях (С Админ клиента 2019)
 
-### [RWeatherTimeTable_Туман+Snow.rwt](RWT/RWeatherTimeTable_Туман+Snow.rwt)
+### 🌫️[RWeatherTimeTable_Туман+Snow.rwt](RWT/RWeatherTimeTable_Туман+Snow.rwt)
 - Туман
 - Идет небольшой снег
